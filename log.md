@@ -25,3 +25,15 @@ went through portyFrontEnd\
 2. https://github.com/JapneetSingh5/iitd-app-website/commit/fbac6329837bad6979433c54ad13fcbfc36b6404
 3. https://github.com/JapneetSingh5/iitd-app-website/commit/c8fb438bb6298922066ee9a7f400363938edbce2
 4. https://github.com/JapneetSingh5/iitd-app-website/commit/c72b84162a17ed81a46b2596e1f325a1f56683ae
+
+### Day 2: June 2, 2020 
+
+**Today's Progress**: \
+1.Resolved lots of issues in [iitd-app-website](https://github.com/JapneetSingh5/iitd-app-website), almost all issues resolved now yayy\
+2.Learnt about REST apis and fetch(), proceeded forward in React course 
+**Thoughts:** \
+only solved issues, didn't do much\
+went through portyFrontEnd\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/iitd-app-website/commit/73bdb6409a52ff11cdee19ec617d438de3a54ec0
+2. https://github.com/JapneetSingh5/FullStackWebDevCoursera/commit/9cec8b80cde27658e303aa9bb246462515342085

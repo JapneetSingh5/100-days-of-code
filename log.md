@@ -30,7 +30,7 @@ went through portyFrontEnd\
 
 **Today's Progress**: \
 1.Resolved lots of issues in [iitd-app-website](https://github.com/JapneetSingh5/iitd-app-website), almost all issues resolved now yayy\
-2.Learnt about REST apis and fetch(), proceeded forward in React course 
+2.Learnt about REST apis and fetch(), proceeded forward in React course \
 **Thoughts:** \
 solved issues in iitd-app-website, site looks and feels much better now\
 fetch and conncecting to servers/networking is a very interesting concept, learnt about PROMISES too! Will have to give these things some time to properly understand them, pretty confident in implementation of react concepts now. Will move onto react animation now and then course is almost finished!\

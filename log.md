@@ -32,8 +32,8 @@ went through portyFrontEnd\
 1.Resolved lots of issues in [iitd-app-website](https://github.com/JapneetSingh5/iitd-app-website), almost all issues resolved now yayy\
 2.Learnt about REST apis and fetch(), proceeded forward in React course 
 **Thoughts:** \
-only solved issues, didn't do much\
-went through portyFrontEnd\
+solved issues in iitd-app-website, site looks and feels much better now\
+fetch and conncecting to servers/networking is a very interesting concept, learnt about PROMISES too! Will have to give these things some time to properly understand them, pretty confident in implementation of react concepts now. Will move onto react animation now and then course is almost finished!\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/iitd-app-website/commit/73bdb6409a52ff11cdee19ec617d438de3a54ec0
 2. https://github.com/JapneetSingh5/FullStackWebDevCoursera/commit/9cec8b80cde27658e303aa9bb246462515342085

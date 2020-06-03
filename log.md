@@ -37,3 +37,12 @@ fetch and conncecting to servers/networking is a very interesting concept, learn
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/iitd-app-website/commit/73bdb6409a52ff11cdee19ec617d438de3a54ec0
 2. https://github.com/JapneetSingh5/FullStackWebDevCoursera/commit/9cec8b80cde27658e303aa9bb246462515342085
+
+### Day 3: June 3, 2020 
+
+**Today's Progress**: \
+1.Finished React course\
+**Thoughts:** \
+\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/FullStackWebDevCoursera/commit/8edb72a8cd57580644c949a2ea4bfd9e3c65bc10

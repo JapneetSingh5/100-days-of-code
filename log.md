@@ -54,7 +54,7 @@ fetch and conncecting to servers/networking is a very interesting concept, learn
 2.Took part in the codeforces div 2 round, solved 0 questions, with 4 incorrect attempts on qs A :( \
 **Thoughts:** \
 The site looks pretty good now, smoother and better feel overall - much more usable, especially after removing the annoying navbar animation glitches\
-I really want to work on a side project involving some public api + a React UI, with React Spring animations, howwvwer, haven't been successfukl in using the open weather map api yet ughhh!
+I really want to work on a side project involving some public api + a React UI, with React Spring animations, howwvwer, haven't been successfukl in using the open weather map api yet ughhh! \
 **Link(s) to work**
 1. https://github.com/devclub-iitd/iitd-app-website/pull/50 \
 2. https://codeforces.com/contest/1362/submission/82534603 \ 

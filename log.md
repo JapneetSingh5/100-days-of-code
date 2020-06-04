@@ -57,4 +57,3 @@ fetch and conncecting to servers/networking is a very interesting concept, learn
 **Link(s) to work**
 1. https://github.com/devclub-iitd/iitd-app-website/pull/50 \
 2. https://codeforces.com/contest/1362/submission/82534603 \ 
-2.

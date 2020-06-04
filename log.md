@@ -45,4 +45,16 @@ fetch and conncecting to servers/networking is a very interesting concept, learn
 **Thoughts:** \
 \
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/FullStackWebDevCoursera/commit/8edb72a8cd57580644c949a2ea4bfd9e3c65bc10
+1. https://github.com/JapneetSingh5/FullStackWebDevCoursera/commit/8edb72a8cd57580644c949a2ea4bfd9e3c65bc10 \
+
+### Day 4: June 4, 2020 
+
+**Today's Progress**: \
+1.Ironed out all the issues in the iitd-app-website\
+2.Took part in the codeforces div 2 round, solved 0 questions, with 4 incorrect attempts on qs A :( \
+**Thoughts:** \
+\
+**Link(s) to work**
+1. https://github.com/devclub-iitd/iitd-app-website/pull/50 \
+2. https://codeforces.com/contest/1362/submission/82534603 \ 
+2.

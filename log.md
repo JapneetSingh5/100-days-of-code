@@ -58,3 +58,16 @@ I really want to work on a side project involving some public api + a React UI, 
 **Link(s) to work**
 1. https://github.com/devclub-iitd/iitd-app-website/pull/50 \
 2. https://codeforces.com/contest/1362/submission/82534603 \ 
+
+### Day 5: June 5, 2020
+
+**Today's Progress**: \
+1.Minor fixes in iitd-app-website
+2.Started a PHP course, learnt some nice things about web technologies, HTTP Requests and the history of programming languages!\
+3.Tried to use NASA's Insight API, still can't get API requests to work ughh!!\
+**Thoughts:** \
+1.Will be starting on BSW website pretty soon, nice opportunity to work on vanilla JS, CSS, HTML and some PHP too!\
+2.Prepping for the iitd-app report pres on June 7, worked on a nice Keynote like theme in google slides, looks cool\
+3.I didn't realise it, but its just been a month I STARTED with React, and to have a cool site already using it is so great!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/iitd-app-website/commit/ee3314f94d719ecb0acc4d51ac34fb88e8fd9803\

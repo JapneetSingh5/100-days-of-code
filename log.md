@@ -71,3 +71,15 @@ I really want to work on a side project involving some public api + a React UI, 
 3.I didn't realise it, but its just been a month I STARTED with React, and to have a cool site already using it is so great!\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/iitd-app-website/commit/ee3314f94d719ecb0acc4d51ac34fb88e8fd9803\
+
+### Day 6: June 6, 2020
+
+**Today's Progress**: \
+1.Setup MAMP, made my first PHP application, learnt some basics of PHP operators, statements etc.\
+**Thoughts:** \
+1.Will be starting on BSW website pretty soon, nice opportunity to work on vanilla JS, CSS, HTML and some PHP too!\
+2.PHP is noice, and pretty powerful too! \
+3.Prepared and completed the presentation for the iitd-app report pres on tomorrow, slides looks pretty minimal and cool!!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/LearningPHP/commit/ed34201514ff3df26669cc512c5d415614a6fff2\
+

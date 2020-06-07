@@ -4,7 +4,7 @@
 
 **Today's Progress**: \
 1.Almost completed the basics of PHP now!
-2.Contributed for the second time via freeCodeCamp!(Awaiting a Merge though, 🤞 !!! \
+2.Contributed for the second time via freeCodeCamp!(Awaiting a Merge though, 🤞) !!! \
 3.Successful presentation of IITDWebApp Report and a fruitful BSW Site meeting.\
 **Thoughts:** \
 1.Will start designing for BSW site tomorrow maybe\

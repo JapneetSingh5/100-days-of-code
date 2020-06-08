@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log for R1
 
 ### Day 8: June ,8 2020
 

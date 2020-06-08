@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 8: June ,8 2020
+
+**Today's Progress**: \
+1.Completed PHP basic course, learnt routing, `$_POST`, `$_REQUEST` super global arrays! Learnt a bit about XSS, HTML injection! cool stuff! Made a rock paper scissor game!\
+2.Made some pretty cool mockups for BSW\
+3.Started work on PortyFrontend!\
+**Thoughts:** \
+1.Will continue designing for BSW site tomorrow maybe, meeting to discuss it day after\
+2.will zoom through SQL course and start learning PHP+SQL databases\
+3.Porty Frontend will also need some work!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/PortyFrontend/commits?author=JapneetSingh5\
+2. https://github.com/JapneetSingh5/LearningPHP/commit/2b11046bec5a81273fab7674b774dfd05a7dc95c\
+
 ### Day 7: June ,7 2020
 
 **Today's Progress**: \

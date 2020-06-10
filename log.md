@@ -3,7 +3,7 @@
 ### Day 9: June 9, 2020
 
 **Today's Progress**: \
-1.Started with SQL course, almost completed! SQL is pretty cool too, a beautiful language and very interesting concepts indeed!/
+1.Started with SQL course, almost completed! SQL is pretty cool too, a beautiful language and very interesting concepts indeed!\
 2.Designed the BSW Home Page, will start coding it up tomorrow maybe\
 3.Continued work on PortyFrontend!\
 **Thoughts:** \

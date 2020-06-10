@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log for R1
 
-### Day 8: June ,8 2020
+### Day 9: June 9, 2020
+
+**Today's Progress**: \
+1.Started with SQL course, almost completed! SQL is pretty cool too, a beautiful language and very interesting concepts indeed!/
+2.Designed the BSW Home Page, will start coding it up tomorrow maybe\
+3.Continued work on PortyFrontend!\
+**Thoughts:** \
+1.Will start coding for BSW site tomorrow maybe, meeting to discuss it tomorrow\
+2.Will finish and start learning PHP+SQL databases\
+3.Porty Frontend needs a LOT OF work to edit the templates!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/LearningPHP/commit/882bd66734c93005792ad0936d3cd18bcd145e43\
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/ea310a600482a424bd5e82c9df6e711cd0a9361c\
+3. https://github.com/JapneetSingh5/PortyFrontend/commit/69c0d22d37ad94853896fe33138424f0022b7903\
+
+### Day 8: June 8, 2020
 
 **Today's Progress**: \
 1.Completed PHP basic course, learnt routing, `$_POST`, `$_REQUEST` super global arrays! Learnt a bit about XSS, HTML injection! cool stuff! Made a rock paper scissor game!\
@@ -14,7 +29,7 @@
 1. https://github.com/JapneetSingh5/PortyFrontend/commits?author=JapneetSingh5\
 2. https://github.com/JapneetSingh5/LearningPHP/commit/2b11046bec5a81273fab7674b774dfd05a7dc95c\
 
-### Day 7: June ,7 2020
+### Day 7: June 7, 2020
 
 **Today's Progress**: \
 1.Almost completed the basics of PHP now!

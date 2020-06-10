@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 10: June 10, 2020
+
+**Today's Progress**: \
+1.Finished the SQL course, started with SQL + PHP course! SQL is pretty cool too, learnt OOP implementation in PHP, its crazy, I love PHP!\
+2.Re-Designed the BSW Home Page, will start coding it up tomorrow maybe(?)\
+3.Finished work on PortyFrontend Design Template 3, my first Neumorphic design website, mental note: Neumorphic design looks so much better with light colours!\
+**Thoughts:** \
+1.Will start coding for BSW site tomorrow maybe, meeting to discuss it tomorrow, again lol :p\
+2.Will continue learning PHP+SQL databases and some great concepts too along with it\
+3.I completed template 3 for Porty!! And figured out to customise MaterialUI-React yayy `!important` ! Will probably make a light version of the neumorphic dark template tomorrow, should be fun and I think it will turn out pretty damn good!  \
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/LearningPHP/commit/30821e536b378b2116b9086f2f5dcadcf13a946e\
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/cb238d75937ae18a41f9a9a521c1cec6560fd562\
+3. https://github.com/JapneetSingh5/PortyFrontend/commit/eba56d9a7a7bc0c44e4e0281c5c1ca9ebebc2e54\
+
 ### Day 9: June 9, 2020
 
 **Today's Progress**: \

@@ -15,7 +15,7 @@
 1. https://github.com/JapneetSingh5/PortyFrontend/commit/c4f6f253ffabd843ccd817023799c567bf982d83\
 2. https://github.com/JapneetSingh5/BSW_Website_2020/commits?author=JapneetSingh5&since=2020-06-10&until=2020-06-11\
 3. https://github.com/oshi/oshi/pull/1261\
-4.https://github.com/JapneetSingh5/PortyFrontend/commit/796f51962661264d2e4e8e159add3a8e5d3b96e0\
+4. https://github.com/JapneetSingh5/PortyFrontend/commit/796f51962661264d2e4e8e159add3a8e5d3b96e0\
 
 ### Day 10: June 10, 2020
 

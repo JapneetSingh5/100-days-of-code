@@ -7,6 +7,7 @@
 2.Started coding up the BSW Website, a little bit redesigned\
 3.Got a task assigned on open source from a Microsoft engineer, yikes, and Java codebase lol, no idea what will happen :p\
 4.Completed revamping of CSS of template 5 i.e. the one picked up from the Gatsby starter.\
+5.Spent some time trying to solve qs in the Codeforces educational round, again ended up with 0 solves, but still, these are early days, my third contest ever, we'll get there! \
 **Thoughts:** \
 1.Will continue working on the BSW Website, nav seems to be coming up fine, carousel addition will be easy\
 2.Will continue(or possibly start ?) learning PHP+SQL databases and some great concepts too along with it\
@@ -16,6 +17,7 @@
 2. https://github.com/JapneetSingh5/BSW_Website_2020/commits?author=JapneetSingh5&since=2020-06-10&until=2020-06-11\
 3. https://github.com/oshi/oshi/pull/1261\
 4. https://github.com/JapneetSingh5/PortyFrontend/commit/796f51962661264d2e4e8e159add3a8e5d3b96e0\
+5. https://codeforces.com/contest/1366/submission/83445127\
 
 ### Day 10: June 10, 2020
 

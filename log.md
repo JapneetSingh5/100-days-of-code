@@ -13,7 +13,7 @@
 3.Will continue working on the BSW Website, will make the pills/tabs/quick-links nav tomorrow, possibly play around with the sticky notes part too, as they are in the same section\
 4.Will continue(or possibly start ?) learning PHP+SQL databases and some great concepts too along with it, yeah, will get back to it now\
 Will try to do the above tasks lol, in order of priority!
-I am working on so much together, I feel great to be in the thick of things rn, keeping busy, but learning and strengthening theory is what I really do miss, things will get clearer once I am done with my bit in Porty perhaps!
+I am working on so much together, I feel great to be in the thick of things rn, keeping busy, but learning and strengthening theory is what I really do miss, things will get clearer once I am done with my bit in Porty perhaps!\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/portyparallax/commit/7718efc289a639d0806e0303d447f6f3363d3a08\
 2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/0568deb7ee93357f526375ea07f26ce373bdc1da\

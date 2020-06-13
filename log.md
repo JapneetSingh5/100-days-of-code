@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log for R1
 
+### Day 13: June 13, 2020
+
+**Today's Progress**: \
+1.Complete porty parallax template, done with most of my work in porty!\
+2.Continue coding up the BSW Website, made the multi level nav, will integrate it tomorrow\
+3.Added routing to the more info page in IITD WebApp, will try to bring up a nice UI for the more info page\
+4.My pr to OSHI got merged, yayy! also got my intro to Java through it\
+**Thoughts:** \
+1.Will finish up the BSW Nav tomorrow, should be majorly css work\
+2.Will devote lots of time to the IITD WebApp, its coming pretty close to a full blown web app now, and it excites me so much now!!!\
+3.Will continue(or possibly start ?) learning PHP+SQL databases and some great concepts too along with it, yeah, will get back to it now\
+4.Will continue working on the BSW Website, will make the pills/tabs/quick-links nav tomorrow, possibly play around with the sticky notes part too, as they are in the same section\
+Will try to do the above tasks lol, in order of priority!\
+Did a bit of work in porty, feels nice to contribute! Will now devote most of my time to the iitd webapp! Ayush sir is busy with AGP, so I can work on the BSW site on my own will and time, navigation should be the toughest part in the early stages of the website I think. Will make sure to do some PHP practice in order to make the chatbot work. \
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/portyparallax/commit/5905d567b22f59f379441aa66614fcbf38c66094\
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/3e427db2b1b3cb9cd2e35c5b06120ab04819dd0b\
+3. https://github.com/JapneetSingh5/iitd-app-website/commit/50212780428d371fe1a33533df47d13f838ee324\
+4. https://github.com/oshi/oshi/pull/1261\
+
 ### Day 12: June 12, 2020
 
 **Today's Progress**: \

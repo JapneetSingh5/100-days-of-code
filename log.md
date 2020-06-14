@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 14: June 14, 2020
+(P.S. 1 full year to JEE Adv 2019 Results today, time flies!)
+
+**Today's Progress**: \
+1.Completed the BSW nav, integrated it, migrated the index.php to multilevel.html, will probably have to refactor some code to make the files more organised. Added the quick link tabs, will experiment with the notices tomorrow and possibly make the footer.\
+2.Got an opportunity to contributee to a public-labs repo, had to add an ARIA label but still, feels nice to keep contributing \
+3.Learned integrating PHP servers and the SQL database, basic CRD, U left but it isnt really different. Got to know about SQLi and some nifty error handling tips, for PHP and in general.\
+**Thoughts:** \
+1.Will continue work on BSW\
+2.Will devote lots of time to the IITD WebApp, its coming pretty close to a full blown web app now, and it excites me so much now!!!\
+3.Will learning PHP+SQL databases \
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/1af5c62684e6d0de5f2d4a18f774dd684ebc86ea\
+2. https://github.com/publiclab/plots2/pull/8033\
+
 ### Day 13: June 13, 2020
 
 **Today's Progress**: \

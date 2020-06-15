@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log for R1
 
 ### Day 15: June 15, 2020
-(P.S. 1 full year to JEE Adv 2019 Results today, time flies!)
 
 **Today's Progress**: \
 1.Completed the BSW Header , Footer, Softwares & Wifi Config pages. Restructured the repo into components and expanded the use of PHP\

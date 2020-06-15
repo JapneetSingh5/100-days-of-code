@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log for R1
 
+### Day 15: June 15, 2020
+(P.S. 1 full year to JEE Adv 2019 Results today, time flies!)
+
+**Today's Progress**: \
+1.Completed the BSW Header , Footer, Softwares & Wifi Config pages. Restructured the repo into components and expanded the use of PHP\
+2.Made significant (relatively vonsidering the last few days) progress in IITD WebApp, finalised the design and coded up the cards for events. Will probably be finished tomorrow\
+3.Completed PHP_SQL Assignment for Week 2, awesome PHP!!!!\
+**Thoughts:** \
+1.Will continue work on BSW, have to, have got a very short deadline now\
+2.Will devote some time to the IITD WebApp!\
+3.Will continue learning PHP+SQL databases, move into week  - Cookies and Sessions - totally new concept, should be fun! \
+4.Will try to do some work on basic algorithms, if I get the time.\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/05ae735c12969186972518a131c8392beebe84b7\
+2. https://github.com/JapneetSingh5/iitd-app-website/commit/004c87b79758a88765329a01fe2502fa6468c1e4\
+3. https://github.com/JapneetSingh5/LearningPHP/commit/b99eed34b9fc050543535f55e6854a8d0e844fc2\
+
 ### Day 14: June 14, 2020
 (P.S. 1 full year to JEE Adv 2019 Results today, time flies!)
 

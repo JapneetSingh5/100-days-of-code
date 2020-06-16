@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log for R1
 
-### Day 15: June 15, 2020
+### Day 16: June 16, 2020
 
 **Today's Progress**: \
 1.Moved ahead in the BSW Project, almost completed with the resources-academics pages. Will continue the momentum tomorrow.\

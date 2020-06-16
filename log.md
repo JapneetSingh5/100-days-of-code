@@ -3,6 +3,24 @@
 ### Day 15: June 15, 2020
 
 **Today's Progress**: \
+1.Moved ahead in the BSW Project, almost completed with the resources-academics pages. Will continue the momentum tomorrow.\
+2.Continued working on the events card, almost done for desktop, to be optimised on mobile. Added a funky 'your search yielded no results' graphic!\
+3.Made a contribution to the conway's game-of-life web version repo, was easy and a very nice idea, using 2d arrays to define a grid, wonderful idea! Beautiful implementation!\
+-->Joined OpenSauce as a member of the triage team wow !!\
+**Thoughts:** \
+1.Will continue work on BSW, have to, have got a very short deadline now, yeaaa!\
+2.Will devote some time to the IITD WebApp, again, yep!\
+3.Will continue learning PHP+SQL databases, move into week  - Cookies and Sessions - totally new concept, should be fun! Missed this yesterday \
+4.Will try to do some work on basic algorithms, if I get the time.Missed this too, will have to do it to get rid of the inertia!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/367d2cf8926ceaecd1859d1d7a67ce1a069ab8af\
+2. https://github.com/JapneetSingh5/iitd-app-website/commit/94b535909dc0ba751d859624fa4d9361f57b90a1\
+3. https://github.com/TroyTae/game-of-life/pull/896\
+4. https://github.com/open-sauced\
+
+### Day 15: June 15, 2020
+
+**Today's Progress**: \
 1.Completed the BSW Header , Footer, Softwares & Wifi Config pages. Restructured the repo into components and expanded the use of PHP\
 2.Made significant (relatively vonsidering the last few days) progress in IITD WebApp, finalised the design and coded up the cards for events. Will probably be finished tomorrow\
 3.Completed PHP_SQL Assignment for Week 2, awesome PHP!!!!\

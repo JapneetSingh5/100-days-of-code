@@ -4,7 +4,7 @@
 
 **Today's Progress**: \
 1.Moved ahead in the BSW Project, made 3 more pages.Fixed the weird navigation bug. Will continue the momentum tomorrow.\
-2.Completed weeek 3 of PHP+mySQL course. Learnt about sessions and cookies.
+2.Completed weeek 3 of PHP+mySQL course. Learnt about sessions and cookies in PHP\
 -->Submitted a pr, added npm script to open-sauced!!\
 **Thoughts:** \
 1.Will continue work on BSW, have to, have got a very short deadline now, yeaaa!\

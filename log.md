@@ -3,7 +3,7 @@
 ### Day 17: June 17, 2020
 
 **Today's Progress**: \
-1.Moved ahead in the BSW Project, made 3 more pages. Will continue the momentum tomorrow.\
+1.Moved ahead in the BSW Project, made 3 more pages.Fixed the weird navigation bug. Will continue the momentum tomorrow.\
 2.Completed weeek 3 of PHP+mySQL course. Learnt about sessions and cookies.
 -->Submitted a pr, added npm script to open-sauced!!\
 **Thoughts:** \

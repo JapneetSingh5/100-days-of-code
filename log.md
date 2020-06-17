@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log for R1
 
+### Day 17: June 17, 2020
+
+**Today's Progress**: \
+1.Moved ahead in the BSW Project, made 3 more pages. Will continue the momentum tomorrow.\
+2.Completed weeek 3 of PHP+mySQL course. Learnt about sessions and cookies.
+-->Submitted a pr, added npm script to open-sauced!!\
+**Thoughts:** \
+1.Will continue work on BSW, have to, have got a very short deadline now, yeaaa!\
+2.Will devote some time to the IITD WebApp, again, yep!\
+3.Will continue learning PHP+SQL databases, move into week 4, should be fun! \
+4.Will try to do some work on basic algorithms, if I get the time. Missed this too, will have to do it to get rid of the inertia!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/e933e959bab5222dc59ac932742dc67260ac57f4\
+2. https://github.com/open-sauced/open-sauced/issues/645\
+
+
 ### Day 16: June 16, 2020
 
 **Today's Progress**: \

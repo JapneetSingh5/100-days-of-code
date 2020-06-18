@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 18: June 18, 2020
+
+**Today's Progress**: \
+1.Completed the events cards, will have to change the data model for it, but whew it looks pretty cool!\
+2.Completed weeek 4 - lectures - of PHP+mySQL course, learnt some awesome login/logout and Post-Redirect-Get today! Will probably complete the assignment tomorrow\
+-->The lint script pr got accepted! My first contribution as a member of open-sauce.\
+**Thoughts:** \
+1.Will continue work on BSW\
+2.Will look into the making of the more info page for hostels - IITD WebApp\
+3.Will finish week 4 php assignment\
+4.Will try to do some work on basic algorithms. Oof!\
+**Link(s) to work**
+1. https://github.com/devclub-iitd/IITDAppWebsite/pull/53\
+2. https://github.com/open-sauced/open-sauced/pull/704\
+
 ### Day 17: June 17, 2020
 
 **Today's Progress**: \

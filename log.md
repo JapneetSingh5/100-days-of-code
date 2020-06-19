@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log for R1
 
+### Day 19: June 19, 2020
+
+**Today's Progress**: \
+1.Completed the events cards data model, card is now modular\
+2.Completed weeek 4 assignment login-login with 100%b score yippeee, I can claim to know backend programming now hahahahahah\
+3.Did some real progress in BSW project, shifted the intern portal to the current design language and made a couple of other pages for the site too, progress seems fine!\
+4.Finally READ the basic algos!!\
+5.Did some little stacked-avatars thingy for open-sauced, got approved and merged yay!\
+**Thoughts:** \
+1.Will continue work on BSW\
+2.Will look into the making of the more info page for hostels - IITD WebApp, will have to design it well first!\
+3.Will start week5 CRUD app in PHP lectures, maybe I can do the assignment tomorrow itslf too!\
+4.Will try to do one more basic algo 😬😬\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/iitd-app-website/commit/5e26cadd9ea1c8caf4bff56c8495ac520548271c\
+2. https://github.com/JapneetSingh5/LearningPHP/commit/d9a5a44f38f91d9acab2cdad3d5cedc9cbd0a506\
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/88eccbba1e5556a37861ead7d9a80c92d1e1a8a0\
+4. https://github.com/open-sauced/open-sauced/pull/710\
 ### Day 18: June 18, 2020
 
 **Today's Progress**: \

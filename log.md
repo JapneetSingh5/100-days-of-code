@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log for R1
 
+### Day 20: June 20, 2020
+
+**Today's Progress**: \
+1.Read the basic algorithms I had planned for, things are pretty basic on that side but will slowly ramp up the concepts\
+2.Week 5 lectures for PHP+SQL are done, assignment left and I will be able to write a basic CRUD app using PHP and mySQL, very cool\
+3.Did some real progress in BSW project, shifted the *Question Papers* portal to the current design language, the most interesting part of this project surely, and involves the most amount of PHP knowledge, very fun! Also made a couple of other pages for the site too, progress feels good, especially the convergenz page I like very very lol!\
+4.Couldn't give much time to IITD WebApp, will decide the course for that project this week!\
+**Thoughts:** \
+1.Will continue work on BSW, 2-3 pages of the events Dilli Darshan, STIC Dinner category aren't much, similar concept, will implement a jQuery gallery and nicely show losts of pics for each\
+2.Will look into the making of the more info page for hostels - IITD WebApp, will have to design it well first!\
+3.Will do week5 CRUD app assignment in PHP, finally I got a great intro to backend, and I kinda like the way things work.\
+4.Will try to do one more basic algo (atleast lol)😬😬\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/029eb3013a0eb594c4868cf680d7ef437ecbe43c\
+-->Less work (not really, just on paper) but quality work!
+
 ### Day 19: June 19, 2020
 
 **Today's Progress**: \

@@ -250,7 +250,7 @@ Refer for Markdown https://www.markdownguide.org/basic-syntax \
 ### Day 5: June 5, 2020
 
 **Today's Progress**: \
-1.Minor fixes in iitd-app-website
+1.Minor fixes in iitd-app-website\
 2.Started a PHP course, learnt some nice things about web technologies, HTTP Requests and the history of programming languages!\
 3.Tried to use NASA's Insight API, still can't get API requests to work ughh!!\
 **Thoughts:** \

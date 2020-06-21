@@ -8,7 +8,7 @@
 3.Wasted lots of time on PortyFrontend, couldnt fix the template.
 4.Couldn't give much time to IITD WebApp, will decide the course for that project this week!\
 **Thoughts:** \
-1.Will do priority work on BSW, 2-3 pages of the events Dilli Darshan, STIC Dinner category aren't much, similar concept, will implement a jQuery gallery and nicely show losts of pics for each\
+1.Will do priority work on BSW, 2-3 pages of the events Dilli Darshan, STIC Dinner \
 2.Discussion for IITDWebApp tomorrow\
 3.Maybe start JS course\
 4.WWDC, best day everrrr\

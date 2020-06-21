@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log for R1
 
+### Day 21: June 21, 2020
+
+**Today's Progress**: \
+1.Read the basic algorithms I had planned for, things are pretty basic on that side but will slowly ramp up the concepts\
+2.Completed week5 PHP assignment, full CRUD app yayy\
+3.Wasted lots of time on PortyFrontend, couldnt fix the template.
+4.Couldn't give much time to IITD WebApp, will decide the course for that project this week!\
+**Thoughts:** \
+1.Will do priority work on BSW, 2-3 pages of the events Dilli Darshan, STIC Dinner category aren't much, similar concept, will implement a jQuery gallery and nicely show losts of pics for each\
+2.Discussion for IITDWebApp tomorrow\
+3.Maybe start JS course\
+4.WWDC, best day everrrr\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/LearningPHP/commit/58b56d8cde979088580f207bc8934055a77e9d3e\
+2. https://github.com/ShivamGupta0/portyUpdated/commit/7ea84e85ec543254b5d144f7f29ad2e6a10207aa\
+
 ### Day 20: June 20, 2020
 
 **Today's Progress**: \

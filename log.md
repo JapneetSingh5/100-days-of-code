@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log for R1
 
+### Day 22: June 22, 2020
+
+**Today's Progress**: \
+1.Made amazing amazing pages for the BSW website, nice work going on there\
+2.Added dark mode to IITDWebApp, mind=blown, looks beautiful\
+3.Changed favicon for open-sauced, little work but honest work, took initiative 💪 \
+4.Started the JS, jQuery course, will build up on it, especially as jQuery is proving to be very useful for the BSW website now\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess \
+2.Discussion for IITDWebApp tomorrow (was postponed haha)\
+3.Continue the JS course\
+->OMG WWDC, what a beautiful day, still waiting for SotU as I write this, I honestly, totally am in love with the new softwares announced - dying to try out SwiftUI, like totally!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/ebd2cdc5393cdc95f0d8b27f1165c875f0ead722\
+2. https://github.com/JapneetSingh5/IITDAppWebsite/commit/1af3f33fecc7aa0ad12896988aff61704ce7c62e\
+3. https://github.com/JapneetSingh5/open-sauced/commit/cf97e58db39b05f41d1b1fcd6294bbf279282b0c\
+
 ### Day 21: June 21, 2020
 
 **Today's Progress**: \

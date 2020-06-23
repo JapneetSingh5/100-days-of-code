@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log for R1
 
+### Day 23: June 23, 2020
+
+**Today's Progress**: \
+1.Made the heirarchy tree page for BSW Structure, will finish it off tomorrow\
+2.Tried SwiftUI for the first time and OMG, it is BEAUTIFUL! and SO POWERFUL! and Xcode is awesome! wowowowowow\
+3.Added a nifty feature (just a repo avatar on context page) :p to open-sauced, great place to contribute, nice nice\
+4.Continued the JS course, JS OOPs is nice, I finally understand when to use this.x and when not to, what are classes in react tho? are they vanilla JS, no i think not. Should probably find out\
+5.Roadmap for IITD WebApp made, like 2 weeks and it will be live probably!\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess \
+2.Check off 1-2 points on my IITD WebApp list, gotta work hard on it\
+3.Continue the JS course\
+4.Damn, gotta keep watching sessions and learning Swift, amazing stuff, and also will download Xcode 12 beta!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/07c6d0a581caa993f3c6b2a40ffba11236f2990a\
+2. https://github.com/JapneetSingh5/Sandwiches\
+3. https://github.com/open-sauced/open-sauced/pull/741\
+
 ### Day 22: June 22, 2020
 
 **Today's Progress**: \

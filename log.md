@@ -14,9 +14,9 @@
 3.Continue the JS course\
 4.Damn, gotta keep watching sessions and learning Swift, amazing stuff, and also will download Xcode 12 beta!\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/07c6d0a581caa993f3c6b2a40ffba11236f2990a \
-2. https://github.com/JapneetSingh5/Sandwiches \
-3. <https://github.com/open-sauced/open-sauced/pull/741 \
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/07c6d0a581caa993f3c6b2a40ffba11236f2990a 
+2. https://github.com/JapneetSingh5/Sandwiches 
+3. <https://github.com/open-sauced/open-sauced/pull/741 
 
 ### Day 22: June 22, 2020
 
@@ -31,9 +31,9 @@
 3.Continue the JS course\
 ->OMG WWDC, what a beautiful day, still waiting for SotU as I write this, I honestly, totally am in love with the new softwares announced - dying to try out SwiftUI, like totally!\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/ebd2cdc5393cdc95f0d8b27f1165c875f0ead722\
-2. https://github.com/JapneetSingh5/IITDAppWebsite/commit/1af3f33fecc7aa0ad12896988aff61704ce7c62e\
-3. https://github.com/JapneetSingh5/open-sauced/commit/cf97e58db39b05f41d1b1fcd6294bbf279282b0c\
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/ebd2cdc5393cdc95f0d8b27f1165c875f0ead722
+2. https://github.com/JapneetSingh5/IITDAppWebsite/commit/1af3f33fecc7aa0ad12896988aff61704ce7c62e
+3. https://github.com/JapneetSingh5/open-sauced/commit/cf97e58db39b05f41d1b1fcd6294bbf279282b0c
 
 ### Day 21: June 21, 2020
 
@@ -48,8 +48,8 @@
 3.Maybe start JS course\
 4.WWDC, best day everrrr\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/LearningPHP/commit/58b56d8cde979088580f207bc8934055a77e9d3e\
-2. https://github.com/ShivamGupta0/portyUpdated/commit/7ea84e85ec543254b5d144f7f29ad2e6a10207aa\
+1. https://github.com/JapneetSingh5/LearningPHP/commit/58b56d8cde979088580f207bc8934055a77e9d3e
+2. https://github.com/ShivamGupta0/portyUpdated/commit/7ea84e85ec543254b5d144f7f29ad2e6a10207aa
 
 ### Day 20: June 20, 2020
 
@@ -64,7 +64,7 @@
 3.Will do week5 CRUD app assignment in PHP, finally I got a great intro to backend, and I kinda like the way things work.\
 4.Will try to do one more basic algo (atleast lol)😬😬\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/029eb3013a0eb594c4868cf680d7ef437ecbe43c\
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/029eb3013a0eb594c4868cf680d7ef437ecbe43c
 -->Less work (not really, just on paper) but quality work!
 
 ### Day 19: June 19, 2020
@@ -81,10 +81,10 @@
 3.Will start week5 CRUD app in PHP lectures, maybe I can do the assignment tomorrow itslf too!\
 4.Will try to do one more basic algo 😬😬\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/iitd-app-website/commit/5e26cadd9ea1c8caf4bff56c8495ac520548271c\
-2. https://github.com/JapneetSingh5/LearningPHP/commit/d9a5a44f38f91d9acab2cdad3d5cedc9cbd0a506\
-3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/88eccbba1e5556a37861ead7d9a80c92d1e1a8a0\
-4. https://github.com/open-sauced/open-sauced/pull/710\
+1. https://github.com/JapneetSingh5/iitd-app-website/commit/5e26cadd9ea1c8caf4bff56c8495ac520548271c
+2. https://github.com/JapneetSingh5/LearningPHP/commit/d9a5a44f38f91d9acab2cdad3d5cedc9cbd0a506
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/88eccbba1e5556a37861ead7d9a80c92d1e1a8a0
+4. https://github.com/open-sauced/open-sauced/pull/710
 ### Day 18: June 18, 2020
 
 **Today's Progress**: \
@@ -97,8 +97,8 @@
 3.Will finish week 4 php assignment\
 4.Will try to do some work on basic algorithms. Oof!\
 **Link(s) to work**
-1. https://github.com/devclub-iitd/IITDAppWebsite/pull/53\
-2. https://github.com/open-sauced/open-sauced/pull/704\
+1. https://github.com/devclub-iitd/IITDAppWebsite/pull/53
+2. https://github.com/open-sauced/open-sauced/pull/704
 
 ### Day 17: June 17, 2020
 
@@ -112,8 +112,8 @@
 3.Will continue learning PHP+SQL databases, move into week 4, should be fun! \
 4.Will try to do some work on basic algorithms, if I get the time. Missed this too, will have to do it to get rid of the inertia!\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/e933e959bab5222dc59ac932742dc67260ac57f4\
-2. https://github.com/open-sauced/open-sauced/issues/645\
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/e933e959bab5222dc59ac932742dc67260ac57f4
+2. https://github.com/open-sauced/open-sauced/issues/645
 
 
 ### Day 16: June 16, 2020
@@ -129,10 +129,10 @@
 3.Will continue learning PHP+SQL databases, move into week  - Cookies and Sessions - totally new concept, should be fun! Missed this yesterday \
 4.Will try to do some work on basic algorithms, if I get the time.Missed this too, will have to do it to get rid of the inertia!\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/367d2cf8926ceaecd1859d1d7a67ce1a069ab8af\
-2. https://github.com/JapneetSingh5/iitd-app-website/commit/94b535909dc0ba751d859624fa4d9361f57b90a1\
-3. https://github.com/TroyTae/game-of-life/pull/896\
-4. https://github.com/open-sauced\
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/367d2cf8926ceaecd1859d1d7a67ce1a069ab8af
+2. https://github.com/JapneetSingh5/iitd-app-website/commit/94b535909dc0ba751d859624fa4d9361f57b90a1
+3. https://github.com/TroyTae/game-of-life/pull/896
+4. https://github.com/open-sauced
 
 ### Day 15: June 15, 2020
 

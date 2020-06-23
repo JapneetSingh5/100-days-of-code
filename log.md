@@ -14,9 +14,9 @@
 3.Continue the JS course\
 4.Damn, gotta keep watching sessions and learning Swift, amazing stuff, and also will download Xcode 12 beta!\
 **Link(s) to work**
-1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/07c6d0a581caa993f3c6b2a40ffba11236f2990a\
-2. https://github.com/JapneetSingh5/Sandwiches\
-3. https://github.com/open-sauced/open-sauced/pull/741\
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/07c6d0a581caa993f3c6b2a40ffba11236f2990a \
+2. https://github.com/JapneetSingh5/Sandwiches \
+3. <https://github.com/open-sauced/open-sauced/pull/741 \
 
 ### Day 22: June 22, 2020
 

@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log for R1
 
+### Day 24: June 24, 2020
+
+**Today's Progress**: \
+1.Completed the heirarchy tree for BSW, finally made the perfect notice post yeayyy, and almost on my way to finish the whole site structure up, hopefully home page will get completed tomorrow\
+2.So downloaded the Xcode12 beta, the logo is beautiful yes! Tried out the SwiftUI2 new features in it via Sandwiches 2, SwiftUI feels too goo to work, will maybe make a Coronavirus tracker app for iOS 14 to learn some skills in SwiftUI\
+3.Open-sauced PR got accepted, yay!\
+4.Made some nice changes in IITD WebApp completed Clubs page, refactored Events completely, and added the dark mode toggle, which I couldnt get to work though, hence no 5 below\
+5.Made a quick todo app using React Hooks, Hooks are pretty cool - I see myself using them a lot in the future, clean code and bye bye React classes, atleast partially 👀\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess \
+2.Check off 1-2 points on my IITD WebApp list, gotta work hard on it\
+3.Continue the JS course\
+4.Damn, gotta keep watching sessions and learning Swift!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/61db5d5aed7773c61b075f43173c9dc73e0355db 
+2. https://github.com/JapneetSingh5/Sandwiches/commit/5684b1c5941489af72e95d33d7e03b54bbb03a33 
+3. https://github.com/open-sauced/open-sauced/issues/727
+4. https://github.com/JapneetSingh5/IITDAppWebsite/commit/0add746332eca8d61b71a09d59308af97445fef9
+5. https://github.com/JapneetSingh5/HooksToDo/commit/4c72c6cb852b067b32618b9f11eb8a03995a0274
+
 ### Day 23: June 23, 2020
 
 **Today's Progress**: \

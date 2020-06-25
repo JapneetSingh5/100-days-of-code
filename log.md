@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log for R1
 
+### Day 25: June 25, 2020
+
+**Today's Progress**: \
+1.Added the beaurtiful gallery jquery module I found to the BSW page, will have to optimise it though, will look awesome\
+2.SwiftUI is love, started with the CoViDtracker, recreated what I learnt in sandwiches in this, will continue adding stuff as and when I learn more\
+3.Used the use-dark-mode react hook to add proper dark mode functionality to the IITDWebApp, looks good, and works, will have to make numerous minor adjustments as well\
+4.Continued the JS, jQuery course, halfway through the assignment, this assignment is a biggie lol\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess \
+2.Check off 1-2 points on my IITD WebApp list, gotta work hard on it\
+3.Continue the JS course, complete the assignment, zoom through jQuery if I can :p\
+4.Damn, gotta keep watching sessions and learning Swift!\
+-->Same goals haha\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/128d2930ce29ccc785fe0f88b8181144bddc551f
+2. https://github.com/JapneetSingh5/CoViDtracker/commit/26118cd7bd3528e0545be209b3ba34b2d4a3c50f
+3. https://github.com/JapneetSingh5/IITDAppWebsite/commit/557ffd893b64ac3ec16c8578ba63751d54e67591
+4. https://github.com/JapneetSingh5/LearningPHP/commit/7153e6e5106769aa17f43f5ef73428483815fbfe
+-->Quarter of my way thorugh #100DaysOfCode, learnt so much already, wondering what will happen in the next 75 days, we will see :pp\
+
+
 ### Day 24: June 24, 2020
 
 **Today's Progress**: \

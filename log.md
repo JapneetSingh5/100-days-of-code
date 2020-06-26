@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log for R1
 
+### Day 26: June 26, 2020
+
+**Today's Progress**: \
+1.Didnt do much in BSW, minor changes and maintenance  \
+2.Added the more info modals to IITDWebApp, will work on them further\
+3.Finished the JS assignment, phew, it was tough! Finished the jQuery lectures too, will do the assignment tomorrow, jQuery is beautiful too omg\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess \
+2.Check off 1-2 points on my IITD WebApp list, gotta work hard on it\
+3.Continue the JS course, complete jQuery assignment, move on to JSON and the end of the specialization !!!\
+4.Damn, gotta keep watching sessions and learning Swift!\
+5.Will have to pull and refine and push PortyFrontend\
+6.Taken up an issue on Open-sauced, will research a bit and do it, maybe day after\
+-->Couldnt do SwiftUI today, but I really want to do it! I have decided, a mental note, I will go full force with it once I am done with the Web App specialisation and more so after completing the BSW project! Too excited to dive back into #100DayOfSwiftUI and build awesome apps, especially Moonshot yayy\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/d6e0f434ae31e2a643b981ed8d02eb81af9a4bb0
+2. https://github.com/JapneetSingh5/IITDAppWebsite/commit/6b1145406e694bd4bc16a34d1e0297f25be3b0ed
+3. https://github.com/JapneetSingh5/LearningPHP/commit/f4421554714fbb7cf11d568e6e880661a4b15828
+
 ### Day 25: June 25, 2020
 
 **Today's Progress**: \

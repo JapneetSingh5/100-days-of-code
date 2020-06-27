@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log for R1
 
+### Day 27: June 27, 2020
+
+**Today's Progress**: \
+1.Moved forward in the JS+JQuery course, learned some beautiful things about jQuery, its like simple yet so mindblowing, idk how to feel about jQuery :p\
+2.Spent an awful amount of time on PortyFrontend trying to fix template 5, could Not do, won't do, ever again\
+3.Did some great work on the BSW side, moved back the design to what I felt was right, no blurry things, applied lots of PHP and jQuery at various places, added micro interactions to buttons, oof, nice stuff overall!\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess, only FAQ page is left needing an overhaul i think \
+2.Check off 1-2 points on my IITD WebApp list, gotta work hard on it\
+3.Continue the JS course, complete jQuery assignment, move on to JSON and the end of the specialization !!!\
+4.Damn, gotta keep watching sessions and learning Swift!\
+5.Taken up an issue on Open-sauced, will research a bit and do it, maybe day after\
+6.Look into react-i18n for bancoda brasil, phew, opensource has limitless opportunities wow!\
+-->Will watch data essentials in swiftUI just after I am writing this, lets go yeyy\
+-->The refinements done in BSW really made me feel great, better code behind the scenes and more functionality on the screen feel great, but stickying to a project for a significant period of time is hard lol, I totally understand now, consistency>>speed!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/81aa10a9867b9db0963616d33551490bd030f576
+2. https://github.com/JapneetSingh5/PortyFrontend/commit/55c8fa906cbcde5605e24d4f3cd3774a8d6a9a2a 
+
+
 ### Day 26: June 26, 2020
 
 **Today's Progress**: \

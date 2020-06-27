@@ -3,7 +3,7 @@
 ### Day 27: June 27, 2020
 
 **Today's Progress**: \
-1.Moved forward in the JS+JQuery course, learned some beautiful things about jQuery, its like simple yet so mindblowing, idk how to feel about jQuery :p\
+1.Moved forward in the JS+JQuery course, learned some beautiful things about jQuery, its like simple yet so mindblowing, idk how or what to feel about jQuery :p\
 2.Spent an awful amount of time on PortyFrontend trying to fix template 5, could Not do, won't do, ever again\
 3.Did some great work on the BSW side, moved back the design to what I felt was right, no blurry things, applied lots of PHP and jQuery at various places, added micro interactions to buttons, oof, nice stuff overall!\
 **Thoughts:** \

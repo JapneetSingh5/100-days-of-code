@@ -17,7 +17,7 @@
 -->The refinements done in BSW really made me feel great, better code behind the scenes and more functionality on the screen feel great, but stickying to a project for a significant period of time is hard lol, I totally understand now, consistency>>speed!\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/81aa10a9867b9db0963616d33551490bd030f576
-2. https://github.com/JapneetSingh5/PortyFrontend/commit/55c8fa906cbcde5605e24d4f3cd3774a8d6a9a2a 
+2. https://github.com/devclub-iitd/PortyFrontend/pull/26 
 
 
 ### Day 26: June 26, 2020

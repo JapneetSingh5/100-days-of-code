@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log for R1
 
+### Day 28: June 28, 2020
+
+**Today's Progress**: \
+1.Moved forward in the JS+JQuery course, partially completed jQuery assignment, its tough :p\
+2.Moved open-sauced to octicons v10.0.0\
+3.Did very nice refinements to the BSW website, coming up very good!\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess, only FAQ page is left needing an overhaul i think \
+2.Check off 1-2 points on my IITD WebApp list, gotta work hard on it\
+-->Will check this off the list the first thing tomorrow!\
+3.Continue the JS course, complete jQuery assignment, move on to JSON and the end of the specialization !!!\
+-->Will keep looking into Swift side by side! \
+5.Look into react-i18n for bancoda brasil, phew, opensource has limitless opportunities wow!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/LearningPHP/commit/8bb322226084f5fcdc2dc32b9d61d5edfa684278
+2. https://github.com/open-sauced/open-sauced/pull/749
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/1cc3e7dd1d19967b160cb3c7eee4e970da8ec6c4
+
 ### Day 27: June 27, 2020
 
 **Today's Progress**: \

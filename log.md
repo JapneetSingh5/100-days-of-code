@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log for R1
 
+### Day 29: June 29, 2020
+
+**Today's Progress**: \
+1.Made more info modals for hostels and clubs tabs in IITD WebApp :p\
+2.Initialised i18-next in Bancoda Brazil\
+3.PR removing #5 :( from Porty Frontend\
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess, only FAQ page is left needing an overhaul i think \
+2.Add some micro interactions in IITD WebApp\
+3.Continue the JS course, complete jQuery assignment, move on to JSON and the end of the specialization !!!\
+-->Will keep looking into Swift side by side! \
+**Link(s) to work**
+1. https://github.com/devclub-iitd/IITDAppWebsite/pull/55
+2. https://github.com/devclub-iitd/PortyFrontend/pull/27
+3. https://github.com/bancodobrasil/stop-analyzing-embed/pull/16
+
 ### Day 28: June 28, 2020
 
 **Today's Progress**: \

@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log for R1
 
+### Day 30: June 30, 2020
+
+**Today's Progress**: \
+1.Finally onto adding micro-interactions to the IITD WebApp - made the dark mode toggle go *plop* on hover and on click, like a button, very fun! Also framer-motion will be very handy while building react applications from now on :p\
+2.Fixed a cross-browser logo display bug in open-sauced, yeyyy oprn source contributions feel very good!!\
+3.Moved all BSW website galleries to touchTouch and put font changes into motion, will play around with images tomorrow probably!\
+4.Finallyy finished the jQuery assignment, oh my god, it was quite difficult! Had fun nevertheless! \
+**Thoughts:** \
+1.Will continue the good work on BSW project, finish up pages quick and then the optimisations will be super rewarding i guess, FAQ page has been done too,  aybe some changes here and there, an upload intern dialog box and a feedback page is left ig, would be complete post that!\
+2.Add some *more* micro interactions in IITD WebApp\
+3.Continue the JS course, zoom through JSON and the end of the specialization !!!\
+-->Will keep looking into Swift side by side! \ 
+-->Already been a month, I HAVE BEEN CODING EVERYDAY IN JUNE, never thought such a thing would happen but well, how the turntables !!!\
+**Link(s) to work**
+1. https://github.com/devclub-iitd/IITDAppWebsite/pull/55/commits/6ff31ee514012e4cc30efa9c1e1541da61f30a80
+2. https://github.com/open-sauced/open-sauced/pull/755
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/c9ca76990a685e5803def992fb23a64790fe87d3
+4. https://github.com/JapneetSingh5/LearningPHP/commit/6c098a631495814588794027ea7642c24bafa30c
+
 ### Day 29: June 29, 2020
 
 **Today's Progress**: \

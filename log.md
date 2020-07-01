@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 31: July 1, 2020
+
+**Today's Progress**: \
+1.Added another micro-interaction, animation on menu toggle, looks dope\
+2.Major refinements to the BSW page, feels much better yeay, added fonts, fluid containers, FAQ improvements, images added, minor refinements etc etc\
+3.Finished the JS+jQuery course finally, gotta do the last assignment tho, tough tough\
+**Thoughts:** \
+1.Will continue work on BSW\
+2.Add some *more* micro interactions, better animations in IITD WebApp\
+3.Try to finish the JSON assn, maybe do like more than half of it\
+**Link(s) to work**
+1. https://github.com/devclub-iitd/IITDAppWebsite/pull/55/commits/77d6bf40bf093d7e72346ae52df10e0b2eb1a455
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/e07d47542e9277d4719fd4d6182d742419423ab4
+
 ### Day 30: June 30, 2020
 
 **Today's Progress**: \

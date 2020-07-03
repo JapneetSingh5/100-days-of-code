@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 33: July 3, 2020
+
+**Today's Progress**: \
+1.Made the IITD Webapp code much better, eslint conflicts solved, linting etc etc\
+2.Added go to top button on all pages in BSW, made some jumbotron gradient changes to make things some more consistent!\
+**Thoughts:** \
+1.Will continue work on BSW, I really don't know what to do now, theres 2 issues active, and add interns and sorting on that page is left ig\
+2.Look into the console errors showing up in the iitd web app! Also add some *more* micro interactions, better animations in IITD WebApp, will look into the react-spring router-page load animations, seem interesting!\
+3.WA4E is finally finished, will look into maybe a project, twitter clone or smthn and maybe learn NodeJS backend slowly slowly\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/IITDAppWebsite/commit/7d4949d4cc77123f6bb9e8797de2892a094df950
+2. https://github.com/ankurshaswat/IITDAppWebsite/commit/f1e54983ab466a0376b8989c41bf518c0c583c96
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/3c081045bfa48afe03a47f33cdb939074d362a31
+
 ### Day 32: July 2, 2020
 
 **Today's Progress**: \

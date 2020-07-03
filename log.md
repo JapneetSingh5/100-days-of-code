@@ -6,6 +6,7 @@
 1.Added another micro-interaction, nav contract animation, works for now, will port to react-spring later!\
 2.Added information to most operations pages in BSW, operations part is almost completely done!\
 3.Finished the WA4E specialization, a very nice set of courses, learnt a lot of new stuff!\
+4.Did some fixing for porty design 5 (the parallax thing, btw i didn't know react-spring had parallax animations too! \
 **Thoughts:** \
 1.Will continue work on BSW\
 2.Add some *more* micro interactions, better animations in IITD WebApp, will look into the router-page load animations, seem interesting!\
@@ -14,6 +15,7 @@
 1. https://github.com/devclub-iitd/IITDAppWebsite/pull/55/commits/94b6024c5d2b1c65b37c35b32e07a414d9b027e5
 2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/0bb53673c7ef5d7978428c947130062f70e79418
 3. https://github.com/JapneetSingh5/LearningPHP/commit/a93047fcf61236c92db126528a5c4ba1e2e55b17
+4. https://github.com/devclub-iitd/PortyFrontend/pull/28
 
 ### Day 31: July 1, 2020
 

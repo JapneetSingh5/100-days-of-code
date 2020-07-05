@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 34: July 4, 2020
+
+**Today's Progress**: \
+1.Routine codebase maintenance for IITD WebApp\
+2.Made some changes to make the BSW site more consistent, finished the intern addition part and resolved an issue\
+3.Taking part in my first MLH Hackathon - Hackcation, will run through today and end tomorrow evening.
+**Thoughts:** \
+1.Will continue work on BSW, have to make that new Delhi Darshan design\
+2.Looks like outine maintenance and minor changes is the way forward for the IITD WebApp, have to start adding data to make the site look more finished\
+3.I have an open slot kind of thing in my days now, especially post this hackathon and as BSW project slowly draws to a close (its not lol, will take up some time, few more contribution peaks to come ig! I am totally inclined to doing a 30DaysOfSwiftXSwiftUI thingy, I probably will!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/IITDAppWebsite/commit/2365977cfc26a27aed383038edeead8af65a6a1f
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/588c499fe205f0dfa9a70fd6e8dc8c86b4d0e6d3
+3. https://github.com/JapneetSingh5/mlh_hackcation_2020/commit/7cff54383934f07ab619637ac91f49d7e60711e2
+
 ### Day 33: July 3, 2020
 
 **Today's Progress**: \

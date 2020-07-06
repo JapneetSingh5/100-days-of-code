@@ -1,12 +1,24 @@
 # 100 Days Of Code - Log for R1
 
+### Day 36: July 6, 2020
+
+**Today's Progress**\
+1.Made the overhauled BSW DD page, came out fine ig .\
+2.Day 1 and halfway through Day 2 of #100DaysOfSwiftUI, already done till closures so will racethrough till then and slowdown post that.
+**Thoughts:** \
+1.Will continue work on BSW, mp the new Mentorship design\
+2.Have to start adding data to the iitd web app, asap 'as possible' yea :p \
+3.Started #100DaysOfSwiftUI, leggo, will do some Internet History stuff too side by side, interesting course\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/b1f38e99ebd07cb915778453bdcbb7c1801b5e20
+
 ### Day 35: July 5, 2020
 
 **Today's Progress**\
 1.Took part in my first MLH Hackathon - Hackcation, I Demoed!! Had a long code sprint and slept early! .\
 **Thoughts:** \
 1.Will continue work on BSW, have to make that new Delhi Darshan design\
-2.Looks like outine maintenance and minor changes is the way forward for the IITD WebApp, have to start adding data to make the site look more finished\
+2.Looks like routine maintenance and minor changes is the way forward for the IITD WebApp, have to start adding data to make the site look more finished\
 3.I have an open slot kind of thing in my days now, especially post this hackathon and as BSW project slowly draws to a close (its not lol, will take up some time, few more contribution peaks to come ig! I am totally inclined to doing a 30DaysOfSwiftXSwiftUI thingy, I probably will!\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/Play404_MLH_Hackcation2020

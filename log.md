@@ -3,7 +3,7 @@
 ### Day 35: July 5, 2020
 
 **Today's Progress**\
-1.Took part in my first MLH Hackathon - Hackcation, I Demoed!! Had a long code sprint and slept early! .
+1.Took part in my first MLH Hackathon - Hackcation, I Demoed!! Had a long code sprint and slept early! .\
 **Thoughts:** \
 1.Will continue work on BSW, have to make that new Delhi Darshan design\
 2.Looks like outine maintenance and minor changes is the way forward for the IITD WebApp, have to start adding data to make the site look more finished\
@@ -16,7 +16,7 @@
 **Today's Progress**: \
 1.Routine codebase maintenance for IITD WebApp\
 2.Made some changes to make the BSW site more consistent, finished the intern addition part and resolved an issue\
-3.Taking part in my first MLH Hackathon - Hackcation, will run through today and end tomorrow evening.
+3.Taking part in my first MLH Hackathon - Hackcation, will run through today and end tomorrow evening.\
 **Thoughts:** \
 1.Will continue work on BSW, have to make that new Delhi Darshan design\
 2.Looks like outine maintenance and minor changes is the way forward for the IITD WebApp, have to start adding data to make the site look more finished\

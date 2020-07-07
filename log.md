@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log for R1
 
+### Day 37: July 7, 2020
+
+**Today's Progress**\
+1.Completed Day4 of #100DaysOfSwiftUI, learnt about collections - arrays,tuples,dictionaries and enums, conditional operators and loops in Swift today.\
+2.Went along with the apple SwiftUI Tutorial for the Landmarks app, it uses last years SwiftUI but offers a nice insight into how things work.\
+3.Did some more work on IITD WebApp, added hostel info, partially, and fixed an age old search ui bug on Safari and a search logic bug that somehow crept out recently\
+4.Designed the BSW Language Mentorship page, very happy with what I could achieve playing with shadows and translucency\
+**Thoughts:** \
+1.Will continue work on BSW, mp code up the header for the Lang Mentorship page, have quote some room for animations there too!\
+2.Will continue adding data to IITD WebApp, will move onto clubs tomorrow and find some way out for the hostel description, asap 'as possible' yea :p \
+3.Will continue with #100DaysOfSwiftUI, leggo, will do some Internet History stuff too side by side, interesting course\
+4.Also have to look into migration to docusaurus v2.\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/IITDAppWebsite/commit/3f95dcff1a0a82a79c2395db394c1d6df563356c
+
+
 ### Day 36: July 6, 2020
 
 **Today's Progress**\

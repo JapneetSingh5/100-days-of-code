@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log for R1
 
+### Day 38: July 8, 2020
+
+**Today's Progress**\
+1.Completed Day7 of #100DaysOfSwiftUI, learnt about functions and closures in Swift today.\
+2.Coded up the BSW Language Mentorship page, very happy with what I could achieve playing with shadows and translucency, design looks a bit distinct from the rest of the site but imo its okay 😋\
+**Thoughts:** \
+1.Will continue work on BSW, will start coding up the bot, deep dive into some PHP goodness 😛\
+2.Will continue adding data to IITD WebApp, will move onto clubs tomorrow and find some way out for the hostel description, asap 'as possible' yea :p \
+3.Will continue with #100DaysOfSwiftUI, leggo, will do some Internet History stuff too side by side, interesting course\
+4.Also have to look into migration to docusaurus v2.\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/1db94530b8adda713d6d038b04092431d957ed1b
+
 ### Day 37: July 7, 2020
 
 **Today's Progress**\

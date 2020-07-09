@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 39: July 9, 2020
+
+**Today's Progress**\
+1.Completed Day9 - structs part of #100DaysOfSwiftUI, learnt about structs - init(), didSet, willSet, mutating, self, lazy, public, private; implemetation of Strings and Arrays as structs in Swift today. Great work done on this front, My interest in Swift is increasing day by day!\
+2.Initialised the bot for the BSW website, doesnt talk much right now lol 😋, but looks awesome on the desktop site and okay-ish in the mobile - will probably refine it in the coming days. Also very happy with the logo I quickly made, love how it looks and adds some color and personality to the site!\
+3.Collected the data for the clubs page of IITD WebApp, will probably code it up tomorrow.\
+4.Started work on the migration of webdriver.io from Docusaurus v1 to v2. Lets see how it goes! Changes done today are local for now!\
+**Thoughts:** \
+1.Will continue work on BSW, will start making the bot talk more, deep dive into some PHP goodness 😛. WIll quickly add the new images to the home carousel , will bring a whole new look to the website \
+2.Will continue adding data to IITD WebApp, will move onto clubs tomorrow and find some way out for the hostel description, asap 'as possible' yea :p \
+3.Will continue with #100DaysOfSwiftUI, Classes in Swift, here I come!\
+4.Also have to look into migration to docusaurus v2. Will try to complete it tomorrow itself, subject to the errors I get.\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/75520735eb05133293c0e550cb54d5190dbd90d3
+
 ### Day 38: July 8, 2020
 
 **Today's Progress**\

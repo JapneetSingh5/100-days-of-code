@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log for R1
 
+### Day 40: July 10, 2020
+
+**Today's Progress**\
+1.Completed Day10 - classes - inheritance, mutability and differences wrt to structs part of #100DaysOfSwiftUI. Learnt about structs - deinit, no () with deinit :p, final classes, override, and some concepts I was always confused about - mutability in different types; My interest in Swift is increasing day by day!\
+2.Made the bot talk a little more today, will make it do full fledged conversations from tomorrow!\
+3.Uploaded data for clubs on to the site, will finish the events part, collect + upload tomorrow.\
+4.Started work on the migration of webdriver.io from Docusaurus v1 to v2. Found somebody making a CLI to automate it WOahhh! Also MLH Fellowship is very cool it seems\
+5.Built a smallish quiz app that uses a public API to fetch questions on trivia, implements the app using typescript and styled-components. Nice little way to get an introduction to all the three things.\
+**Thoughts:** \
+1.Will continue work on BSW, will start making the bot converse, deep dive into some PHP goodness 😛.Also tweak the home carousel images \
+2.Will continue adding data to IITD WebApp, will move onto events page tomorrow \
+3.Will continue with #100DaysOfSwiftUI, Protocols  in Swift, here I come! Now this is something I have never learnt in C++, so kkinda very excited to see whats it all about\
+4.Also have to look into migration to docusaurus v2.\
+5.Kinda participating in MLH NewHackWhoThis? as well, lets see how it goes!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/6ca4c2fe20c5d1526d4bb5e712b7e99fc66b6acc
+2. https://github.com/devclub-iitd/IITDAppWebsite/pull/57
+3. https://github.com/JapneetSingh5/QuizApp/commit/771e452519d8458ca89e28daab18f2e1103d3644
+
 ### Day 39: July 9, 2020
 
 **Today's Progress**\

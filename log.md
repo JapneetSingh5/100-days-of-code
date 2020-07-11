@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log for R1
 
+### Day 41: July 11, 2020
+
+**Today's Progress**\
+1.Completed Day11 - protocols - extensions, protocols and protocol extensions part of #100DaysOfSwiftUI. Lots of Swift goodness, will move onto optionals tomorrow and then the 3 day consolidation period starts, will revise and strengthen my hold on the basics of swift!\
+2.Made the bot talk a little more today, can tell a joke or two, take queries, and a couple of more basic things\
+3.Uploaded data for events on to the site, will move on to the other parts and clubs data cleaning now.\
+4.Did some python-jupyter nb work for the hackathon team, got some exposure to the Spotify API! I had no idea something of this sorts existed. A great learning experience, these remote hackathons!\
+**Thoughts:** \
+1.Will continue work on BSW, will start making the bot converse, deep dive into some PHP goodness 😛 \
+2.Will continue adding data to IITD WebApp, will move onto campus spots, the well known areas and clean the clubs data \
+3.Will continue with #100DaysOfSwiftUI, optionals in Swift, here I come! Heard that this is quite a difficult part, lets see what is!\
+4.Also have to look into migration to docusaurus v2.\
+5.Participating in MLH NewHackWhoThis? as well, lets see how it goes!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/11556da0a69666772533d75ccc54e1e5c69ec24b
+2. https://github.com/devclub-iitd/IITDAppWebsite/pull/57/commits/e2376612992c2829b8490bbfa79939f60b643d52
+3. https://github.com/0916dhkim/new-hack-who-this-project/commit/1b12e7ade0c83cc2c9f4213629afd7535d3a6798
+
 ### Day 40: July 10, 2020
 
 **Today's Progress**\

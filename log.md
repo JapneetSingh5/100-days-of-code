@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 42: July 12, 2020
+
+**Today's Progress**\
+1.Completed Day12 - optionals - part of #100DaysOfSwiftUI. Learnt about Int?, guard let, if let, Init?(), Init! and so on! Optionals blew my mind.\
+2.Okay so today I went all in to the hackathon, New Hack Who This?! Implemented a Discord music bot, made it work, did some nifty coding in Python. In short, learnt a lot today!\
+-->COuldnt really work on either BSW or the IITD WebApp today, kindof was tired and really worked hard on the Hackathon project. Anyways, had loads of fun, went live on the MLH Hack closing ceremony, thats an experience to remember too! Had fun, thats all that matters!\
+**Thoughts:** \
+1.Will work on BSW, figure out a way to send mails from PHP \
+2.Will continue adding data to IITD WebApp, will move onto campus spots, the well known areas and clean the clubs data \
+3.Will continue with #100DaysOfSwiftUI, 3 consolidation dates now, will kindof merge the first 2 into 1 ig, but shouldnt maybe.Lets see, I will probably take my time and give the whole three days to understanding swift better\
+4.Also have to look into migration to docusaurus v2.\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/MoodsicBot_MLH_NewHackWhoThis
+
 ### Day 41: July 11, 2020
 
 **Today's Progress**\

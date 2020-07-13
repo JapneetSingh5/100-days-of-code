@@ -1,11 +1,26 @@
 # 100 Days Of Code - Log for R1
 
+### Day 43: July 13, 2020
+
+**Today's Progress**\
+1.Completed Day13 - Consolidation I Day 1 #100DaysOfSwiftUI. Revised data types, loops, switch/case. Had no idea Float exists in Swift, Had never seen it before lol, revision and deeper study is very necessary!\
+2.Added emailing ability to BSW Chatbot, works but some error in getting name and entry number across! Connected a dad jokes API 😂😂😂! Also added a nifty question papers command to the bot! Lots of avenues to add more commands to buried areas in the website\
+3.Significant data cleaning and addition in the IITD Webapp, added shortcircuits - only those icons are shown for which links are present, added optional links and linkedin links for lots of clubs, insta links for all and added quite a few more clobs too!\
+**Thoughts:** \
+1.Will work on BSW, add more commands and abilities to the bot. \
+2.Will move onto campus spots data collection for IITD WebApp \
+3.Will continue with #100DaysOfSwiftUI, consolidation I Day 2\
+4.Also have to look into migration to docusaurus v2.\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/e49570e48ac77cd55d769be3382430066696d6aa
+2. https://github.com/devclub-iitd/IITDAppWebsite/pull/57/commits/d6c965d6f372c2743b88fe4f015e3383998c80a7
+
 ### Day 42: July 12, 2020
 
 **Today's Progress**\
 1.Completed Day12 - optionals - part of #100DaysOfSwiftUI. Learnt about Int?, guard let, if let, Init?(), Init! and so on! Optionals blew my mind.\
 2.Okay so today I went all in to the hackathon, New Hack Who This?! Implemented a Discord music bot, made it work, did some nifty coding in Python. In short, learnt a lot today!\
--->COuldnt really work on either BSW or the IITD WebApp today, kindof was tired and really worked hard on the Hackathon project. Anyways, had loads of fun, went live on the MLH Hack closing ceremony, thats an experience to remember too! Had fun, thats all that matters!\
+-->Couldnt really work on either BSW or the IITD WebApp today, kindof was tired and really worked hard on the Hackathon project. Anyways, had loads of fun, went live on the MLH Hack closing ceremony, thats an experience to remember too! Had fun, thats all that matters!\
 **Thoughts:** \
 1.Will work on BSW, figure out a way to send mails from PHP \
 2.Will continue adding data to IITD WebApp, will move onto campus spots, the well known areas and clean the clubs data \

@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log for R1
 
+### Day 44: July 14, 2020
+
+**Today's Progress**\
+1.Completed Day14 - Consolidation I Day 2 #100DaysOfSwiftUI. Revised enums,structs, functions, classes , OPtionals in swift. Had no idea function overloading exists in Swift, Had never seen it before lol, revision and deeper study is very necessary! ALso, enums are really powerfully and unwrapping optionals with **if else** isnt that bad either!\
+2.Added some more command to the BSW Bot, deep linked hostel and emergency contacts, the bot literally outputs HTML lol\
+3.Minor cosmetic changes in IITD WebAPP NOTHING MUCH !\
+4.Finally worked on webdriver.io, opened a draft PR and things just got rougher :p\
+5.Made a logo for IITD's DJ, came out pretty well! Fingers crossed for the results eee!\
+**Thoughts:** \
+1.Will work on BSW, literally running out of things to work on. \
+2.Will move onto campus spots data collection for IITD WebApp \
+3.Will continue with #100DaysOfSwiftUI, consolidation I Day 3. One last day before I start building actual Apps!\
+4.Also will discuss and see what path to take for the  migration to docusaurus v2.\
+**Link(s) to work**
+1. https://github.com/webdriverio/webdriverio/pull/5620
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/ceec467a9f9038b3c5dcfe2005ccf134dc44a88c
+3. https://github.com/JapneetSingh5/IITDAppWebsite/commit/6c5a25d2e6f3aee088b6c90bb4a6e5a1705d6e56
+
 ### Day 43: July 13, 2020
 
 **Today's Progress**\

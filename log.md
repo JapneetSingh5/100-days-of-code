@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 45: July 15, 2020
+
+**Today's Progress**\
+1.Completed Day15 - Consolidation I Day 3 #100DaysOfSwiftUI. Revised access control, properties and methods, closures, typecasting , polymorphism in swift. Had no idea didSet had an oldValue attached to it and willSet had a newValue variable attached to it in Swift, Had never seen it before lol, revision and deeper study is very necessary! Also, polymorphism in classes is very pretty cool too\
+2.Designed the Alumni Mentorship page and added credits for the images to the homepage in BSW\
+3.Refactored the IITD WebApp and initialised campus places data storage with some changes under the hood\
+4.Had a sneak peak into SwiftUI app development and went through Day16 of #100DaysOfSwiftUI, I can't even tell how excited I am\
+**Thoughts:** \
+1.Will work on BSW, code up a skeleton for alumni mentorship. \
+2.Will add to campus spots data collection for IITD WebApp \
+3.Will continue with #100DaysOfSwiftUI, WeSplit app starts now. I will start building actual Apps!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/995449609870427d6765d215ad423c08950c14bf
+2. https://github.com/devclub-iitd/IITDAppWebsite/pull/57/commits/d5857e8e0fe46d323ce2f17dc9f1e953a241ce08
+
 ### Day 44: July 14, 2020
 
 **Today's Progress**\

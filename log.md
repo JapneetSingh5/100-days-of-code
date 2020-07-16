@@ -1,9 +1,26 @@
 # 100 Days Of Code - Log for R1
 
+### Day 46: July 16, 2020
+
+**Today's Progress**\
+1.Completed Day16-18 - WeSplit app, my first app in SwiftUI via #100DaysOfSwiftUI. Forms, Pickers, Section, headers, footer, SegmentedPickerStyle(), @State wrappers, Different picker types, different keypad types, NavigationView and what it unlocks, NavigationBarTitle, 2-way-binding, Type conversion initializers, Text fields and how they always want Strings ughh, lots of stuff to keep me busy learning! Had lots of fun!
+Also, I made a repo to keep track of all my projects during #100daysOfSwiftUI\
+2.Coded up the alumni mentorship page, will edit the language mentorship page tomorrow, will hiopefully get counselling content too, want to wrap up the BSW site fast\
+3.Added a counter to grids in IITD WebApp and some data addition to campus places, different images look good on the campus grid now! Also removed whatever build errors were occuring, stylelint was missing from devdependencies! :p, Merge inconsistencies \
+4.Have started with the discrete mathematics and algo study, will slowly move ahead in both of them, nothing to rush rn, just progress everyday will suffice! Will give more time to these once I'm done with the BSW webiste!\
+**Thoughts:** \
+1.Will work on BSW \
+2.Will add to campus spots data collection for IITD WebApp \
+3.Will continue with #100DaysOfSwiftUI, Challenge day 1 tomorrow, have to make a unit convertor Yo!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/f4e6e8a78c2642691a26f2c23fb05772e4effb51
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/a54292fd293676426047523eafaabc9a056e9c73
+3. https://github.com/devclub-iitd/IITDAppWebsite/pull/57/commits/1f4532ad8dc9a3b3d2d6c27044b48914ed5ecd33
+
 ### Day 45: July 15, 2020
 
 **Today's Progress**\
-1.Completed Day15 - Consolidation I Day 3 #100DaysOfSwiftUI. Revised access control, properties and methods, closures, typecasting , polymorphism in swift. Had no idea didSet had an oldValue attached to it and willSet had a newValue variable attached to it in Swift, Had never seen it before lol, revision and deeper study is very necessary! Also, polymorphism in classes is very pretty cool too\
+1.Completed Day15 (16ish too) - Consolidation I Day 3 #100DaysOfSwiftUI. Revised access control, properties and methods, closures, typecasting , polymorphism in swift. Had no idea didSet had an oldValue attached to it and willSet had a newValue variable attached to it in Swift, Had never seen it before lol, revision and deeper study is very necessary! Also, polymorphism in classes is very pretty cool too\
 2.Designed the Alumni Mentorship page and added credits for the images to the homepage in BSW\
 3.Refactored the IITD WebApp and initialised campus places data storage with some changes under the hood\
 4.Had a sneak peak into SwiftUI app development and went through Day16 of #100DaysOfSwiftUI, I can't even tell how excited I am\

@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log for R1
 
+### Day 47: July 17, 2020
+
+**Today's Progress**\
+1.Completed Day19, my first challenge day - built the volume unit convertor app, had a very minor hiccup while coding up the SegmentedPickerStyle(), had lots of fun doing it otherwise!\
+2.Edited the lang mentorship page, I'm exhausted pheww! Want to finish up with the BSW site asap as possible (yeah, again!)\
+3.Added lots of campus data, fixed counter grammer and LAZY LOADING to images in the IITD WebApp, this PR is almost lookng like a major update to me! \
+4.Went through some basics in the algorithm course, the BigO notation starts now, i.e. I'll be learning something new once Big(O) has been crossed! Thats ehen the fun will begin!\
+**Thoughts:** \
+1.Will work on BSW \
+2.Will add to campus spots data collection for IITD WebApp \
+3.Will continue with #100DaysOfSwiftUI, Project 2 start tomorrow\
+4.Hackathon, maybe?\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/12ab76df8853fc8a3b8fe7f528651c9219c7ac7d
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/c4b06baf35bbc705f981c992510b337aac34b98c
+3. https://github.com/JapneetSingh5/IITDAppWebsite/commit/9f12de7cda16ca442fdc34c4c9a9540914152a08
+
 ### Day 46: July 16, 2020
 
 **Today's Progress**\

@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log for R1
 
+### Day 48: July 18, 2020
+
+**Today's Progress**\
+1.Added 30+ campus places to IITD WebApp!\
+2.Day 20  - #100DaysOfSwiftUI - went through overview of the flag guessing app!
+3.Taking part in HackItShipIt, tried out some new UI styles, cool UI but not much functionality in the project (as of now) or maybe even later\
+**Thoughts:** \
+1.Will work on BSW \
+2.Will continue with #100DaysOfSwiftUI, Project 2 code up tomorrow\
+3.Hackathon, maybe?\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/IITDAppWebsite/commit/8e321c04ca148c97ebb8a7a5fcbb83a610feb764
+2. _
+3. https://github.com/radiantly/HackItShipIt/commit/8702d27ef579e2c73ea2dfa274ed241935e3eab2
+
+
 ### Day 47: July 17, 2020
 
 **Today's Progress**\

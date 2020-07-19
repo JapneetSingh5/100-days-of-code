@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 49: July 19, 2020
+
+**Today's Progress**\
+1.OMG I created a beautiful website in HackItShipIt. Used hooks, lots! Called an API that our team built, got to know about CORs, and yeah, learnt lots! Awesome work done!\
+2.Day 21-25 done  - #100DaysOfSwiftUI - Custom Modifiers, Custom COntainers, Generics (yikes!), conditional modifiers, basics of ViewsAndModifiers, alerts, shapapes, overlays, clips! So much I learnt in SwiftUI today, feels great!
+**Thoughts:** \
+1.Will work on BSW \
+2.Will continue with #100DaysOfSwiftUI, Challenge+Consolidation code up tomorrow, making a Rock-Paper-Scissors game\
+3.IITD Webapp, lets see what I can improve!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/CaptainScallywag_MLH_HackItShipIt
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/006eb356ccecdab9c70859b4f1ec1dcb623d7699
+-> Been 49 days already, will be halfway through tomorrow, can't even describe how much I have learnt during these 50 days, power on!
+
 ### Day 48: July 18, 2020
 
 **Today's Progress**\

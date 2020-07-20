@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 50: July 20, 2020
+
+**Today's Progress**\
+1.Day 26-28 : Project 4 #100DaysOfSwiftUI, used CreateML and OMG, totally effortless deploying of a ML model, like seriously, took less than 2 seconds! Also learnt about Date(), DateFormatter(), DateComponents() and omg, dates are difficult! Tried Sliders, Toggles, Steppers and Pickers today!  also Sept 1752 had 12 days less!
+Also btw, day 25 consolidation 2 was also today, built a RockPaperScissor app too, had fun!
+**Thoughts:** \
+1.Will work on BSW \
+2.Will continue with #100DaysOfSwiftUI, full steam ahead!\
+3.IITD Webapp, lets see what I can improve!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/0b5a51e88a8b11b47c4c591982d1593c809fc295
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/8720a49db0b5f3d65cf2a044bcd59fa4569e3c73 \
+-> Halfway through and couldnt be more grateful! I am learning so much and having so much fun! Lets see what the rest of the 50 days and beyond bring for me!
+
 ### Day 49: July 19, 2020
 
 **Today's Progress**\

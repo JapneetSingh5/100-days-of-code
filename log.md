@@ -1,10 +1,27 @@
 # 100 Days Of Code - Log for R1
 
+### Day 51: July 21, 2020
+
+**Today's Progress**\
+1.Day 29 : Project 5 #100DaysOfSwiftUI, Learnt about Lists, UITextChecker(), unicode is hard and ObjectiveC APIs are a bit hard too! Looking forward to making WordScramble tomorrow\
+2.Added WebAPI to CoViDtracker, a pull to refresh using a library and adding a launchscreen and a logo, it now lives on my phone !\
+3. Finished BSW Language and ALumni Mentorship work, designed the COunselling page, peeps were happy and will code the skeleton structure up tomorrow!\
+**Thoughts:** \
+1.Will work on BSW \
+2.Will continue with #100DaysOfSwiftUI, full steam ahead!\
+3.IITD Webapp, lets see what I can improve!\
+4.CoViDtracker 👀 \
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/939c37714259241afadd87ce229be53836c91c9d
+2. https://github.com/JapneetSingh5/CoViDtracker/commit/9b840eb8cc1ee2fb7d0167fc8f7b86311e761242 
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/a1fed092e26de07a979f8a8a8634aede0562684e \
+-> I am having so much fun playing with SwiftUI 😬😬😬😬😬😬!
+
 ### Day 50: July 20, 2020
 
 **Today's Progress**\
 1.Day 26-28 : Project 4 #100DaysOfSwiftUI, used CreateML and OMG, totally effortless deploying of a ML model, like seriously, took less than 2 seconds! Also learnt about Date(), DateFormatter(), DateComponents() and omg, dates are difficult! Tried Sliders, Toggles, Steppers and Pickers today!  also Sept 1752 had 12 days less!
-Also btw, day 25 consolidation 2 was also today, built a RockPaperScissor app too, had fun!
+Also btw, day 25 consolidation 2 was also today, built a RockPaperScissor app too, had fun!\
 **Thoughts:** \
 1.Will work on BSW \
 2.Will continue with #100DaysOfSwiftUI, full steam ahead!\

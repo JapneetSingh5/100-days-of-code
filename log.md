@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log for R1
 
+### Day 52: July 22, 2020
+
+**Today's Progress**\
+1.Day 30-31 : Coded Project 5 #100DaysOfSwiftUI, WordScrambler app with challenges, nice one, learnt how to use assets other than images and that ObjC APIs are hard\
+2.Added tabbed nav, more APIs, more real time info, district wise data and lots of stuff to CoViDtracker !\
+3.Coded up the BSW Coun selling page, will need some minor improvements but cool otherwise!\
+4.Moved forward in DSA course, BigO, littleO, bigThheta, omega notation and did 4 coding problems involving Fibonnaci numbers\
+5.Made minor changes in IITDWebApp, modal improvements, meta data + favicon added, nice little touch!\
+**Thoughts:** \
+1.Will work on BSW (? no idea what to work on though!))\
+2.Will continue with #100DaysOfSwiftUI, full steam ahead! Will start with animations tomorrow! WooHooo!!!\
+3.IITD Webapp, lets see what I can improve!\
+4.CoViDtracker 👀 \
+5.Will try to finish week2 programming assignment in DSA course\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/50e07cb346ae3e3bc5cca6c55f74906e5a1d9779
+2. https://github.com/JapneetSingh5/CoViDtracker/commit/75e5597fdf07ba748b740428199b46246a3679f1
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/8beaf8cff5ce9b2fe97a6f93555c15792a978142
+4. https://github.com/JapneetSingh5/IITDAppWebsite/commit/7198bc6ddfe4bb065ee05f0adc23ee5dacd7e58c \
+-> I am having so so so so so so much fun playing with SwiftUI 😬😬😬😬😬😬!
+
 ### Day 51: July 21, 2020
 
 **Today's Progress**\

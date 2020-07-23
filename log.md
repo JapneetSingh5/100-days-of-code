@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 53: July 23, 2020
+
+**Today's Progress**\
+1.Completed Week2 of AlgorithmicToolbox, did some 4 coding questions I though I'll never be able too :p\
+2.Completed Day 33-34 in #100DaysOfSwiftUI, and omg, things just got a little difficult! BTW animations and transitions in Swift UI are super cool!\
+**Thoughts:** \
+1.Will work on BSW (? no idea what to work on though!))\
+2.Will continue with #100DaysOfSwiftUI, full steam ahead! Will do the animations Wrap Up challenge tomorrow, will see how to proceed!!!\
+3.IITD Webapp, lets see what I can improve!\
+4.CoViDtracker 👀 \
+5.Will try to move forward in DSA, probably Greedy Algos\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/e145ba6efc6e6dd3f751ae446fcbbfb9ecc22ce6
+
 ### Day 52: July 22, 2020
 
 **Today's Progress**\

@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log for R1
 
+### Day 54: July 24, 2020
+
+**Today's Progress**\
+1.Added ability to add custom tab in CoviDtracker, a news feed tab - not connected to an API yet, changed UI to give a more modern feel, more information at the outermost levels now, ability to switch b/w detailed or simpler views, and AND and AND made my first widget using widget kit, its static rn, like totally no use, but still looks cool and I'm very happy! [I tweeted about it here](https://twitter.com/singhjapneet5/status/1286734893787955200) \
+2.Completed Animation WrapUp ie Day34 in #100DaysOfSwifUI today, mostly implemented the animations in the GuessTheFlag app, had fun! \
+3.Updated BSW Alumni Mentorship page, fixed the bubble svg problem\
+**Thoughts:** \
+1.Will work on BSW (? no idea what to work on though!))\
+2.Will continue with #100DaysOfSwiftUI, full steam ahead! Consolidation Day 3, will build NumberFarm tomorrow!\
+3.IITD Webapp demo tomorrow hoot hoot!\
+4.CoViDtracker 👀 \
+5.Will try to move forward in DSA, probably Greedy Algos\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/CoViDtracker/commit/aa3a3219cbb64837d3602f6f6cb24d7c7dc15358
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/4d77c0b96fbe4f3713c580ff6f153a6a28657a71
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/65e6abdd62c900910d113aa2f6751459fffbffc4
+
 ### Day 53: July 23, 2020
 
 **Today's Progress**\

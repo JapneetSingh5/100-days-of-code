@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log for R1
 
+### Day 55: July 25, 2020
+
+**Today's Progress**\
+1.Added NewsAPI to CoViDtracker for the News Feed \
+2.Started with the Consolidation Day III challenge, building NumberFarm, have built the settings/init screen. Will build the gameplay tomorrow\
+3.IITD WebApp demo went eh\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! Will move onto Project 7 and NumberFarm on the side!\
+2.CoViDtracker 👀 \
+3.IITD WebApp data cleaning + aggregation\
+4.BSW try to solve issues, want to finish it before college starts\
+5.Will try to move forward in DSA, probably Greedy Algos\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/CoViDtracker/commit/f7550df8f3647d787c08fedce8f49e240eddeac4
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/bad47132f33f82ab86580d3a2432da0a430c920
+
 ### Day 54: July 24, 2020
 
 **Today's Progress**\

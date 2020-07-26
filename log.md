@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log for R1
 
+### Day 56: July 26, 2020
+
+**Today's Progress**\
+1.Used kingfisher to load news feed images and overhauled the news feed ui, is pretty usable and looks cool now\
+2.Started with Project7 - iExpense, learnt about UserDetails, @ObservedObject, @Environment, @Published, ObservableObject, Codeable, JSONEncoder(), JSONDecoder(), Data() types, sheets - sheets are so cool is SwiftUI! Will start coding iExpense tomorrow! Lotta fun\
+3.Read up about some Swift language concepts - Generics are cool and pretty powerful, Memory Conflicts and Access providers are nice to! The Book provided by Apple on Swift 5.3 is awesome, pretty detailed and nice to read\
+4.Started some BackendJS stuff with NodeJS, got to know about CommonJS - require, module.exports and ES6 - export, import and how they differ!\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! Will move onto Project 7 and NumberFarm on the side!\
+2.CoViDtracker 👀 \
+3.IITD WebApp data cleaning + aggregation\
+4.BSW try to solve issues, will design and code up academic mentorship tomorrow\
+5.Will try to move forward in DSA, probably Greedy Algos or in NodeJs or both\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/CoViDtracker/commit/57917df939b068cf421c9ec7a09784408b269368
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/2b768359ca841737610ad3c5d0ed6137c5b909d5
+
 ### Day 55: July 25, 2020
 
 **Today's Progress**\

@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 57: July 27, 2020
+
+**Today's Progress**\
+1.Made academic mentorship page in BSW Website, improvements at various places, esp in bot ui for mobile \
+2.Coded up Project 8 - iExpense - used UserDefaults, OnservableObject protocol, Codable protocol, @Published, @ObservedObject wrappers, Identifiable, UUID and how it affects views in ForEach and onDelete(), used @Environment variable, will read up more about @Environment\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! Will make the gameplay for NumberFarm on then start with Moonshot, the project I was always waiting for !!!!\
+2.CoViDtracker 👀 \
+3.BSW try to solve issues, make About Us page and go through and make a list for all the pending work, go through all pages one by one, note even minor issues\
+4.Will try to move forward in DSA, probably Greedy Algos or in NodeJs or both\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/e50475abf71351eed54b3f33622f9e900f4ab397
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/f93016d4e28b023be603da5335e49e5d8b22fc19
+
+
 ### Day 56: July 26, 2020
 
 **Today's Progress**\

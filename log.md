@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log for R1
 
+### Day 58: July 28, 2020
+
+**Today's Progress**\
+1.Major push in BSW website, almost ready for deployment, about us page styling is the only bit left for the release ig \
+2.Went through concepts required in Moonshot project, Codable, ScrollView, GeometryReader, GeometryProxy - very basic overview, Image() .aspectRatio(contentMode: .fit/.fill), .frame(), .clipped(), .resizable() - good stuff overall :p\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! I'm vvv excited for moonshot, definitely building it tomorrow!\
+2.CoViDtracker 👀, having some issues with reload and stufff, API calls arent great rn, probably needs a thorough refactor! Will probably do it once Moonshot is done; I will have more Codable experience by then! \
+3.BSW fin about us page, solve some minor issues, esp Bot responsiveness\
+4.Will try to move forward in DSA, probably Greedy Algos or in NodeJs or both\
+5.Make yearbook covers! High Priority!
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/711f7f10ec9de9df5879c546555a7c98fcccb4fe
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/8eefd731834b283d07e88a0c9d3f3f575c1707c3
+
 ### Day 57: July 27, 2020
 
 **Today's Progress**\

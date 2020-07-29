@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log for R1
 
+### Day 59: July 29, 2020
+
+**Today's Progress**\
+1.Styled About Us Page, BSW Website almost ready \
+2.Coded up the Moonshot UI, DateFormatter() Ughhhhhh, confused me, on the other hand, Codable is so good, so intuitive and pretty fast yo\
+3.Made Yearbook Cover Pages, camoe out nice!\
+4.IITD Webapp cleaned, formatted data, revamped readme, almost complete :p\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! I'm vvv excited for moonshot, definitely building it tomorrow!\
+2.CoViDtracker 👀, having some issues with reload and stufff, API calls arent great rn, probably needs a thorough refactor! Will probably do it once Moonshot is done; I will have more Codable experience by then! \
+3.BSW Bot responsiveness and minor requested changes, enquire about content missing\
+4.Will try to move forward in DSA, probably Greedy Algos or in NodeJs or both or UI/UX idk lol too many options\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/d3de76c90b420db14684d37491f5329a9ccec4e7
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/34de0193ddc463fc49bdb9508758c39cc34022bf
+3. https://github.com/devclub-iitd/IITDAppWebsite/pull/59
+
+
 ### Day 58: July 28, 2020
 
 **Today's Progress**\

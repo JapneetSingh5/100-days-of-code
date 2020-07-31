@@ -1,11 +1,25 @@
 # 100 Days Of Code - Log for R1
 
+### Day 61: July 31, 2020
+
+**Today's Progress**\
+1.Fixed the Counselling page, added carousel for multiple image views, fin editing hopefully\
+2.Completed the challenges for Moonshot app, added some nice touches, Astronaut mission views, crew descriptions, saved View choice to UserDefaults. Tweet [here](https://twitter.com/singhjapneet5/status/1289191387204710400)\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! DAY 43, will start drawing app tomorrow\
+2.Will revise semester 2 COL100 maybe lol\
+3.BSW?\
+4.Will try to move forward in DSA, probably Greedy Algos or in NodeJs or both or UI/UX idk lol too many options\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/23f0e1174d6376c47e47f7229427cc1c945665c7
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/a0e859f664044a93f2e1a202175b2ceae2e3efc8
+
 ### Day 60: July 30, 2020
 
 **Today's Progress**\
 1.Fixed the bot issues + the minor requested changes in BSW website, took some time lol\
 2.Completed the moonshot UI, learnt about combining different JSON data using a where clause, which returns the object itself, not the index, Nice. Tweet [here](https://twitter.com/singhjapneet5/status/1288829296912392192?s=2)\
-4.IITD Webapp cleaned, formatted data, revamped readme, almost complete :p\
+3.IITD Webapp cleaned, formatted data, revamped readme, almost complete :p\
 **Thoughts:**\
 1.Will continue with #100DaysOfSwiftUI, full steam ahead! DAY 42 TOMORROW, DONT PANIC!\
 2.BSW Mental health page requested changes\

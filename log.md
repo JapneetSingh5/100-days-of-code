@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 60: July 30, 2020
+
+**Today's Progress**\
+1.Fixed the bot issues + the minor requested changes in BSW website, took some time lol\
+2.Completed the moonshot UI, learnt about combining different JSON data using a where clause, which returns the object itself, not the index, Nice. Tweet [here](https://twitter.com/singhjapneet5/status/1288829296912392192?s=2)\
+4.IITD Webapp cleaned, formatted data, revamped readme, almost complete :p\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! DAY 42 TOMORROW, DONT PANIC!\
+2.BSW Mental health page requested changes\
+4.Will try to move forward in DSA, probably Greedy Algos or in NodeJs or both or UI/UX idk lol too many options\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/eb90c1eff13c7534b821015726a7430acebe1c21
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/df1aed4906a4ed074fed8f6553150187ea633ae9
+
 ### Day 59: July 29, 2020
 
 **Today's Progress**\

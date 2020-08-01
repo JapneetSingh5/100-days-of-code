@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log for R1
 
-### Day 61: July 31, 2020
+### Day 62: August 1, 2020
 
 **Today's Progress**\
 1.So many fixes in BSW, hopefully tomorrow's the day it all ends!\

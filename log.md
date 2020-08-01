@@ -3,6 +3,20 @@
 ### Day 61: July 31, 2020
 
 **Today's Progress**\
+1.So many fixes in BSW, hopefully tomorrow's the day it all ends!\
+2.Completed the Drawing app, the challenges and stuff, now time for some consolidation and reading\
+**Thoughts:**\
+1.Will continue with #100DaysOfSwiftUI, full steam ahead! Consolidation time, will start drawing app tomorrow\
+2.Will revise semester 2 COL100 maybe lol\
+3.BSW? please be the last day pls pls\
+4.Will try to move forward in DSA, probably Greedy Algos or in NodeJs\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/7afb863f376ba0c429e26ac7da7a4eb52af54fde
+2. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/2c198c24d960576e592cedf7b76832c90fa864c8
+
+### Day 61: July 31, 2020
+
+**Today's Progress**\
 1.Fixed the Counselling page, added carousel for multiple image views, fin editing hopefully\
 2.Completed the challenges for Moonshot app, added some nice touches, Astronaut mission views, crew descriptions, saved View choice to UserDefaults. Tweet [here](https://twitter.com/singhjapneet5/status/1289191387204710400)\
 **Thoughts:**\

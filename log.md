@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log for R1
 
+### Day 63: August 2, 2020
+
+**Today's Progress**\
+1.BSW Structure complete, hopefully this is it!\
+2.Revised some Swift and went through Paul's 'Star Wars X Swift' talk, its the best talk ever imo, so good and such a great concept\
+**Thoughts:**\
+1.Lets see what we can do tomorrow, will keep it open, some Swift reading sure.\
+2.Will revise semester 2 COL100 maybe lol\
+4.Will try to move forward in DSA, probably Greedy Algos or in NodeJs\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSW_Website_2020/commit/f12e83a021b046f013c5aa60bffbae80435a8979
+
 ### Day 62: August 1, 2020
 
 **Today's Progress**\

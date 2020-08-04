@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log for R1
 
+### Day 65: August 4, 2020
+
+**Today's Progress**\
+1.Completed Milestone 4 Challenge in #100DaysOfSwiftUI, built a Habit tracking app!\
+2.Started some work on Lynx, will take me some time to figure it out!\
+**Thoughts:**\
+1.some Swift reading sure.\
+2.Will revise semester 2 COL100, MTL100 .. everything ... surely or it will be too late lol, its too late already 😭😭😭\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/d0264406e8f51415051406760656460a5e060db8
+
 ### Day 64: August 3, 2020
 
 **Today's Progress**\

@@ -6,6 +6,7 @@
 1.Read some of Day 49 of #100DaysOfSwiftUI, didnt feel like coding a lot today\
 2.Bootstrapped a basic blog using GatsbyJS, will work for me for the time being!\
 3.Made some definitive updates to BSW, site looks and feels much more modern design wise now, contact us page is one of my fav now!\
+4.Also did some NodeJS, created a basic Node module\
 **Thoughts:**\
 1.Tomorrow,some Swift reading sure and continue with #100DaysOfSwiftUI\
 2.Will revise semester 2 COL100, MTL100 .. everything ... surely or it will be too late lol, its too late already 😭😭😭\

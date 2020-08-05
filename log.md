@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log for R1
 
+### Day 66: August 5, 2020
+
+**Today's Progress**\
+1.Read some of Day 49 of #100DaysOfSwiftUI, didnt feel like coding a lot today\
+2.Bootstrapped a basic blog using GatsbyJS, will work for me for the time being!\
+3.Made some definitive updates to BSW, site looks and feels much more modern design wise now, contact us page is one of my fav now!\
+**Thoughts:**\
+1.Tomorrow,some Swift reading sure and continue with #100DaysOfSwiftUI\
+2.Will revise semester 2 COL100, MTL100 .. everything ... surely or it will be too late lol, its too late already 😭😭😭\
+**Link(s) to work**
+1. CupcakeCorner init'd. Code is only locally available rn.
+2. https://github.com/JapneetSingh5/blog
+3. https://github.com/JapneetSingh5/BSW_Website_2020/commit/a1a9e9434a26b42c08a66731d1f7896c2353cdcb
+
 ### Day 65: August 4, 2020
 
 **Today's Progress**\

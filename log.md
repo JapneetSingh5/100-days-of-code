@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log for R1
 
+### Day 67: August 6, 2020
+
+**Today's Progress**\
+1.Completed Day 49 of #100DaysOfSwiftUI, learnt about custom Codable implementations, how property wrappers actually 'wrap' properties, URLSession, URLRequest, fetching JSON APIs and diabled() modifier for form sections and elements!\
+2.Went through a couple of NodeJS lectures, got to know about how async programming works behind the scenes in Node, pretty cool stuff!\
+**Thoughts:**\
+1.Tomorrow,some Swift reading sure and continue with #100DaysOfSwiftUI, halfway through the 100 Days wooo!!\
+2.Classes start again tomorrow, wish me luck lol!\
+3.Will make some progress in NodeJS\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/cdd0df71b710b3654579db7d1b1bf00f115693a
+
 ### Day 66: August 5, 2020
 
 **Today's Progress**\

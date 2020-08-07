@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log for R1
 
+### Day 68: August 7, 2020
+
+**Today's Progress**\
+1.Completed Day 50 of #100DaysOfSwiftUI, built the UI for the cupcake corner application, halfway through 😬😬😬\
+2.Lots of minor fixes and changes to the BSW website, almost ready for deployment, a day or two's wait most probably, very excited!\
+**Thoughts:**\
+1.Tomorrow, some Swift reading sure and continue with #100DaysOfSwiftUI, halfway through the 100 Days wooo!! I have enjoyed SwiftUI thoroughly in the past month and a half, such an amazing gateway to iOS app development, especially coming from declaritive libraries/ frameworks like React, real fun and very excited to move forward with CoreData and stuff!\
+2.Will make some progress in NodeJS, lets see what I can do fin it\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/eeaacbcced6deb59e47830c775f6bc88d17bfd2b
+2. https://github.com/JapneetSingh5/BSW_Website_2020/commit/2ab9c43efde646ac6b2bad713caf3db9b31a769a
+
 ### Day 67: August 6, 2020
 
 **Today's Progress**\

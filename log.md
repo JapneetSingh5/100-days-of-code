@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log for R1
 
+### Day 69: August 8, 2020
+
+**Today's Progress**\
+1.Completed Day 51 of #100DaysOfSwiftUI, used URLSession and URLRequest to send data and read response to and from a server! Also encoding and decoding Published property containing classes\
+2.Lots of minor fixes and changes to the BSW website,phew! again!, almost ready for deployment, a day or two's wait most probably, very excited!\
+**Thoughts:**\
+1.Tomorrow, some Swift reading sure and continue with #100DaysOfSwiftUI, over halfway through the 100 Days wooo!! I have enjoyed SwiftUI thoroughly in the past month and a half, such an amazing gateway to iOS app development, especially coming from declaritive libraries/ frameworks like React, real fun and very excited to move forward with CoreData and stuff!\
+2.Will make some progress in NodeJS, lets see what I can do in it\
+3.Will probably mess around a bit with recursion, SML and algorithms course too, lets see\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/3728a5604c058a3365ea87a1e606159558254fd7
+
 ### Day 68: August 7, 2020
 
 **Today's Progress**\

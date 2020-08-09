@@ -1,5 +1,16 @@
+
 # 100 Days Of Code - Log for R1
 
+### Day 70: August 9, 2020
+
+**Today's Progress**\
+1.Completed Day 52 of #100DaysOfSwiftUI, nice Codable challenge, started Day 53 a bit, converted Class based to struct as Published\
+**Thoughts:**\
+1.Tomorrow, some Swift reading sure and continue with #100DaysOfSwiftUI, over halfway through the 100 Days wooo!! I have enjoyed SwiftUI thoroughly in the past month and a half, such an amazing gateway to iOS app development, especially coming from declaritive libraries/ frameworks like React, real fun and very excited to move forward with CoreData and stuff!\
+2.Will make some progress in NodeJS, lets see what I can do in it\
+3.Will probably mess around a bit with recursion, SML and algorithms course too, lets see\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/7494eb871b033d9a20d7ce9cca946716941a2a6d
 ### Day 69: August 8, 2020
 
 **Today's Progress**\

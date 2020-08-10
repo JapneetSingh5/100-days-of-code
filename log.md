@@ -1,6 +1,17 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 71: August 10, 2020
+
+**Today's Progress**\
+1.Completed Day 53 of #100DaysOfSwiftUI, learnt about managed object context, NSManagedObject, @FetchRequest, creating CoreData entities and attributes\
+**Thoughts:**\
+1.Tomorrow, some Swift reading sure and continue with #100DaysOfSwiftUI\
+2.Will probably mess around a bit with recursion, SML and algorithms course too\
+3.Will start/ or have started planning things for Lynx app\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/bd093b86e18d2548ba9ba91f837ab53002141268
+
 ### Day 70: August 9, 2020
 
 **Today's Progress**\
@@ -11,6 +22,7 @@
 3.Will probably mess around a bit with recursion, SML and algorithms course too, lets see\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/7494eb871b033d9a20d7ce9cca946716941a2a6d
+
 ### Day 69: August 8, 2020
 
 **Today's Progress**\

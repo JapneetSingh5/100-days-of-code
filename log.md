@@ -1,6 +1,19 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 72: August 11, 2020
+
+**Today's Progress**\
+1.Completed Day 54 of #100DaysOfSwiftUI, implemented managed object context, NSManagedObject, @FetchRequest, creating CoreData entities and attributes, and also made a super cool star rating custom UI Component, used @Binding\
+2.Made some progress on Lynx, looks good, but OpenGraphd support is limited ig, have to find a way to workaround with it\
+**Thoughts:**\
+1.Tomorrow, some Swift reading sure and continue with #100DaysOfSwiftUI\
+2.Will probably mess around a bit with recursion, SML and algorithms course too\
+3.Will start/ or have started planning things for Lynx app\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/7424104d2ea7837c5218f281c2aea1c940ec1561
+2. https://github.com/JapneetSingh5/Lynx
+
 ### Day 71: August 10, 2020
 
 **Today's Progress**\

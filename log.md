@@ -1,12 +1,21 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 74: August 13, 2020
+
+**Today's Progress**\
+1.Completed Day 56 of #100DaysOfSwiftUI, completed the bookworm app, learnt some awesome SwiftUI x CoreData stuff, completed wrap up, review and challenges today\
+**Thoughts:**\
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/f546b065c54b2febc626dda9315e2645fcf45223
+
 ### Day 73: August 12, 2020
 
 **Today's Progress**\
 1.Completed Day 55 of #100DaysOfSwiftUI, completed the bookworm app, learnt some awesome SwiftUI x CoreData stuff\
 **Thoughts:**\
-1.Tests incoming, difficult to keep up with #100DaysOfCode now :(
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/1ff5a2d14ca3dae3d892d1daac5180e223c3d4ab
 

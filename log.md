@@ -1,6 +1,18 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 76: August 16, 2020
+
+**Today's Progress**\
+1.Completed Day 58 of #100DaysOfSwiftUI, going inDepth into CoreData, in the little time I can cut out for it lol, full marks in review, so thats good!\
+**Thoughts:**\
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/f80366c26811c7eb273ffa66e138133776c3dd3b\
+
+
+-> 15 August happened to be a no code day, studied hard for PYL, wasnt meant to be :(\
+
 ### Day 75: August 14, 2020
 
 **Today's Progress**\

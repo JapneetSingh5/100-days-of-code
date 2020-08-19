@@ -1,6 +1,16 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 77: August 19, 2020
+
+**Today's Progress**\
+1.Deployed BSW site using FTP and wow, made some great impromptu changes to how bot works to ensure it is deployed as sson as possible, super proud of the work done today\
+2.SwiftUI, moved forward with CoreData!\
+**Thoughts:**\
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/BSWChatbot
+
 ### Day 76: August 16, 2020
 
 **Today's Progress**\

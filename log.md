@@ -1,6 +1,16 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 78: August 20, 2020
+
+**Today's Progress**\
+1.Coded up the Friends app, the basic challenge objectives have all been met for Day 60, finished Day 59 CoreData wrap up. Will work on revising CoreData and streamlining the app data workflow tomorrow.\
+2.Fixed a couple of BSW bot errors\
+**Thoughts:**\
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/ae798de5982ce47f57dcede11b0d94f358639536
+
 ### Day 77: August 19, 2020
 
 **Today's Progress**\

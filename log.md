@@ -1,6 +1,17 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 79: August 22, 2020
+
+**Today's Progress**\
+1.Reviewed the Friends app, some Codable concepts. Then then then, migrated to CoreData version of Friends.\
+**Thoughts:**\
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/2b0899ba4d219d1ffc9dcd6849fea6071ca535e8
+
+-> 21 August happened to be a no code day, ELL Again:(\
+
 ### Day 78: August 20, 2020
 
 **Today's Progress**\
@@ -20,6 +31,8 @@
 1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
 **Link(s) to work**
 1. https://github.com/JapneetSingh5/BSWChatbot
+
+-> 17 & 18 August happened to be a no code days, studied hard for Minors :(\
 
 ### Day 76: August 16, 2020
 

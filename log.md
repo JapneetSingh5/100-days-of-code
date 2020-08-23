@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 80: August 23, 2020
+
+**Today's Progress**\
+1.More codable, day 61 challenge almost complete yeahhh funn! Will probably do some tinkering to add dynamic filters and stuff maybe, probably for later idk\
+**Thoughts:**\
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/30760eac17c1fc9e56c208ef09e3250097b2611b
+
 ### Day 79: August 22, 2020
 
 **Today's Progress**\

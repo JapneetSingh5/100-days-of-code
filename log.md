@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 81: August 24, 2020
+
+**Today's Progress**\
+1.Day 62 of #100DaysOfSwiftUI, got to know about 'Oppen Quickly', implemented custom Bindings using Binding< > and learnt about action sheets\
+**Thoughts:**\
+1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/0484f2f9be459a02e95d90bb42b84c5effb75d21
+
 ### Day 80: August 23, 2020
 
 **Today's Progress**\

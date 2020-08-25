@@ -1,10 +1,19 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 82: August 25, 2020
+
+**Today's Progress**\
+1.Day 63 of #100DaysOfSwiftUI, played around with Binding and CoreImage and omg UIKit is back, haunts me still, will have to work hard to keep moving forward.\
+**Thoughts:**\
+1.I will not give up this time, will finally conquer my fear of UIKit lol!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/6072b3e4de9a7e877b83823acd6763a6cc324e2e
+
 ### Day 81: August 24, 2020
 
 **Today's Progress**\
-1.Day 62 of #100DaysOfSwiftUI, got to know about 'Oppen Quickly', implemented custom Bindings using Binding< > and learnt about action sheets\
+1.Day 62 of #100DaysOfSwiftUI, got to know about 'Open Quickly', implemented custom Bindings using Binding< > and learnt about action sheets\
 **Thoughts:**\
 1.Tests incoming, difficult to keep up with #100DaysOfCode now :(, only goal is to kepp putting in the days work, even if minimal, without failing, into SwiftUI\
 **Link(s) to work**

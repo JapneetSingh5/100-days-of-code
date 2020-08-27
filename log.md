@@ -1,6 +1,17 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 83: August 27, 2020
+
+**Today's Progress**\
+1.Day 64 of #100DaysOfSwiftUI, played around with Binding and Coordinators and ImageSaver and @objc encounter for the first time, great work done today \
+**Thoughts:**\
+1.I will not give up this time, will finally conquer my fear of UIKit lol!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/0a51e80e16be1a7a66c1e049bc18b9bd55dc89a8
+
+-> 26 August happened to be a no code day, ELL Again:(\
+
 ### Day 82: August 25, 2020
 
 **Today's Progress**\

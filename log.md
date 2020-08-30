@@ -1,6 +1,17 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 84: August 30, 2020
+
+**Today's Progress**\
+1.Day 65 of #100DaysOfSwiftUI, sososos the way @twostraws built the instafilter app turned out to be the exact same way I built it during the tech intro, sad i removed it all , only the UI was different, but still I got some more practice, had fun yo \
+**Thoughts:**\
+1.I will not give up this time, will finally conquer my fear of UIKit lol!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/4435a484d48897034ec61b1f6fa7153e377191c6
+
+-> 28, 29 August happened to be a no code day:(\
+
 ### Day 83: August 27, 2020
 
 **Today's Progress**\

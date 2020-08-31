@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 85: August 31, 2020
+
+**Today's Progress**\
+1.Day 66-67 of #100DaysOfSwiftUI, lots of fun making the InstaFilter app and doing the wrap up challenges, finally a bit confident using UiKit and understan ding how things are flowing, will have to reread some stuff up though, but all in all, I'm pretty  impressed and excited for the upcoming weeks, wowowowow yess \
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/ccebf284815e653afe09c5b4ce1877152bfb09a4
+
 ### Day 84: August 30, 2020
 
 **Today's Progress**\

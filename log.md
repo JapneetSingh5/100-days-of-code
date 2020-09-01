@@ -1,6 +1,16 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 86: September 1, 2020
+
+**Today's Progress**\
+1.Day 68 of #100DaysOfSwiftUI  File Manager, enum view state and comparable conformance - nice things learnt today\
+2.Floating Point Numbers and Numerical Computing (wink wink COL100, wink wink)\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/ccebf284815e653afe09c5b4ce1877152bfb09a4
+
 ### Day 85: August 31, 2020
 
 **Today's Progress**\

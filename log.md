@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 87: September 2, 2020
+
+**Today's Progress**\
+1.Day 69 of #100DaysOfSwiftUI FileAuthentication, MapKit\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/9c59b1c0fdea671e6306a15bc899a1acc8283306
+
 ### Day 86: September 1, 2020
 
 **Today's Progress**\

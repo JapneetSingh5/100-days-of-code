@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 88: September 3, 2020
+
+**Today's Progress**\
+1.Day 70 of #100DaysOfSwiftUI Advanced MapKit\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/df232d436326eae80c21ecd1a8f711cf76e33dfb
+
 ### Day 87: September 2, 2020
 
 **Today's Progress**\

@@ -1,6 +1,17 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 89: September 5, 2020
+
+**Today's Progress**\
+1.Day 71 of #100DaysOfSwiftUI Wikipedia Data fetch and Comparable conformance to sort incoming json\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/978a35a6acaf5e8f4acb7a214e6618848c41ce20
+
+-> September 4 happened to be a no code day, PYL Major :(\
+
 ### Day 88: September 3, 2020
 
 **Today's Progress**\

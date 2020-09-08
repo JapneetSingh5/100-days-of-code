@@ -1,6 +1,17 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 90: September 5, 2020
+
+**Today's Progress**\
+1.Day 72, wrapup from Day 73 of #100DaysOfSwiftUI LocalAuth implementation and making other's classes Codable conforming\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/6d01dfb8f5b1e0e2ebae710fcf7ef8486bef05d0
+
+-> September 6,7 happened to be a no code day,Major :(\
+
 ### Day 89: September 5, 2020
 
 **Today's Progress**\

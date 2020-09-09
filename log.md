@@ -1,7 +1,16 @@
 
 # 100 Days Of Code - Log for R1
 
-### Day 90: September 5, 2020
+### Day 91: September 9, 2020
+
+**Today's Progress**\
+1.Day 73,74,75 and WrapUp Day 76 of 100DaysOfSwiftUI Accessibility Improvements in Previously made apps and an Accessibility Technique app\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/4461a7ab34f4909ab6af1a0c791eba4b222d8b92
+
+### Day 90: September 8, 2020
 
 **Today's Progress**\
 1.Day 72, wrapup from Day 73 of #100DaysOfSwiftUI LocalAuth implementation and making other's classes Codable conforming\

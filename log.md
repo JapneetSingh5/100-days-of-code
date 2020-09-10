@@ -1,6 +1,16 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 92: September 10, 2020
+
+**Today's Progress**\
+1.Day 76 Challenges of 100DaysOfSwiftUI Accessibility Improvements in Previously made apps \
+2.Lots of numerical computing py py \
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1. https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/4461a7ab34f4909ab6af1a0c791eba4b222d8b92
+
 ### Day 91: September 9, 2020
 
 **Today's Progress**\

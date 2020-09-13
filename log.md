@@ -7,7 +7,7 @@
 1.Day 77 challenges complete, MVP ready, amazing work done today!\
 **Thoughts:**\
 1.Just doing my best and going with the flow, sup?!\
-**Link(s) to work**
+**Link(s) to work**\
 1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/812b119791dfd7ebc25a18ff7aed1b3e2e6b6654
 
 ### Day 94: September 12, 2020

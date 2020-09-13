@@ -1,6 +1,33 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 95: September 13, 2020
+
+**Today's Progress**\
+1.Day 77 challenges complete, MVP ready, amazing work done today!\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/812b119791dfd7ebc25a18ff7aed1b3e2e6b6654
+
+### Day 94: September 12, 2020
+
+**Today's Progress**\
+1.COL100 Major, good 3 hrs coding exercise\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+-\
+
+### Day 93: September 11, 2020
+
+**Today's Progress**\
+1.Lots of numerical computing py py and smlnj, COL100\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**
+-\
+
 ### Day 92: September 10, 2020
 
 **Today's Progress**\

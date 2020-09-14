@@ -1,6 +1,16 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 96: September 14, 2020
+
+**Today's Progress**\
+1.Day 78 challenges complete, Completed my first SwiftUI X UIKit X MapKit app, done myself!!!!\
+2.Day79, 80~ started, working on HotProspects, a very cool seeming set of features to be implemented in the coming days, really looking forward to this !!!
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**\
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/91a2235af12d0394967b33ee3e1f43d9384d312f
+
 ### Day 95: September 13, 2020
 
 **Today's Progress**\

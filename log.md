@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 97: September 15, 2020
+
+**Today's Progress**\
+2.Day 81, 82, 83, 84, 85~ simple challenge complete. I honestly didnt rush, will probably slow down a bit tomorrow and test the app on device and fix the animation bug! will also complete the challenges, nice set of functionalities gained by doing this project\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**\
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/365bad26d93bd51067a0db1626d6a73f3e3b70e9
+
 ### Day 96: September 14, 2020
 
 **Today's Progress**\

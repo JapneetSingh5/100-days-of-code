@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 98: September 16, 2020
+
+**Today's Progress**\
+2.Day 85 complete. Learned lots of nuances while doing HotProspects\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**\
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/9b5f5060c401e35eacc3f4770b5d005b2a0b1c78
+
 ### Day 97: September 15, 2020
 
 **Today's Progress**\

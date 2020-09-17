@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 99: September 17, 2020
+
+**Today's Progress**\
+2.Day 86-87 complete. CoreHaptics, wow! Combine is here and brings super cool Notification Control and @Environment Accessibility settings! and Gestures, omg, great stuff, amazing!\
+**Thoughts:**\
+1.Just doing my best and going with the flow, sup?!\
+**Link(s) to work**\
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/23a0d2104e64a0fba52194c0b38ed84d9d8f9ed5
+
 ### Day 98: September 16, 2020
 
 **Today's Progress**\

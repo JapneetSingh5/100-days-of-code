@@ -5,6 +5,7 @@
 
 **Today's Progress**\
 1.Day 88, 89, 90 complete. Lota of atuff. Gestures, Accessibility improvements, specially for the ccolorblind. Haptics,are cool. COmbine is awesome. Will revise the project tomorrow and try to complete the challenges.\
+2.Attended a Square Root Decomposition lecture via unacademy, very interesting!\
 **Thoughts:**\
 1.Its been 100 days oof! Started with React, made a couple of projects using React, learnt some PHP and mySQL, - built the BSW website, working on IITD Webapp, worked on lots of projects, 3 hackathons, Swift, SwiftUI, some objC maybe lol, ummm. been 90 days doing SwiftUI, learnt some design, some experience, had lots of fun. Will probably write something better to finish off these 100 days. UMMM. Not going to end this here, will continue till 100DaysOfSwiftUI ends. 
 \

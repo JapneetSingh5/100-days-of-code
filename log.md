@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 101: September 19, 2020
+
+**Today's Progress**\
+1.Day 91- completed Flashzilla challenges, day 92-Layout and Custom Alignment Guides, found them difficult to understand, will give them aand geometryReader a go tomorrow\
+**Thoughts:**\
+1.A week to go in 100DaysOfSwiftUI, I'm really excited to start building on my own ideas post that, Lynx yes!\
+**Link(s) to work**\
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/74c9ff936524352258d9ea077c0c7db9494f0c02
+
 ### Day 100: September 18, 2020
 
 **Today's Progress**\

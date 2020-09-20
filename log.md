@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 102: September 20, 2020
+
+**Today's Progress**\
+1.Day 93- GeometryReader and scroll View effects , day 94-Geometryreader challenges, day95~ review for the milestone, some reading and started Roll app\
+**Thoughts:**\
+1.Less than A week to go in 100DaysOfSwiftUI, I'm really excited to start building on my own ideas post that, Lynx yes!\
+**Link(s) to work**\
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/45545aea6787aa9985d57c684265802aa1d837a3
+
 ### Day 101: September 19, 2020
 
 **Today's Progress**\

@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log for R1
 
+### Day 103-104: September 21-22, 2020
+
+**Today's Progress**\
+1.Completed SnowSeeker app , dual split screen layout for iPads and related challenges, had fun adding filter settings, something new that I tried there.
+**Thoughts:**\
+1.Less than A week to go in 100DaysOfSwiftUI, I'm really excited to start building on my own ideas post that, Lynx yes!\
+**Link(s) to work**\
+1.https://github.com/JapneetSingh5/100DaysOfSwiftUI/commit/f73c937980a02e50ea9061b922718a34d0088dce
+
 ### Day 102: September 20, 2020
 
 **Today's Progress**\
